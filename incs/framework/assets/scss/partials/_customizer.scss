@@ -1,0 +1,185 @@
+/**
+ * 05. Widget
+ */
+.control-section{
+
+  .wuppo-field{
+    padding: 0;
+
+    .wuppo-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 6px;
+
+      h4{
+        display: block;
+        font-size: 13px;
+        line-height: 1;
+        font-weight: 600;
+        color: inherit;
+      }
+    }
+
+    .wuppo-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .wuppo-help{
+    top: -5px;
+    right: -5px;
+  }
+
+  .wuppo-field-select select{
+    width: 100%;
+  }
+
+  .wuppo-field-heading{
+    color: inherit;
+    font-size: 14px;
+    line-height: 1em;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .wuppo-field-subheading{
+    color: inherit;
+    font-size: 11px;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 10px 15px;
+  }
+
+  .wuppo-subtitle-text{
+    margin-top: 4px;
+    font-size: 12px;
+  }
+
+  .wuppo-field-submessage .wuppo-submessage{
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .wuppo-fieldset{
+
+    .wuppo-field-submessage .wuppo-submessage,
+    .wuppo-field-heading,
+    .wuppo-field-subheading{
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .wuppo-field-date,
+  .wuppo-field-datetime{
+
+    label{
+      display: block;
+    }
+
+    .wuppo--to{
+      margin-top: 4px;
+      margin-left: 0;
+    }
+  }
+
+  .wuppo-field-sorter{
+
+    ul li{
+      padding: 5px;
+    }
+
+    .wuppo-modules{
+      float: none;
+      width: 100%;
+    }
+
+    .wuppo-modules:first-child{
+      padding-right: 0;
+      padding-bottom: 15px;
+    }
+  }
+
+  .wuppo-field-background{
+
+    .wuppo--background-attributes{
+      flex-direction: column;
+    }
+  }
+
+  .wuppo-field-spacing{
+    input{
+      width: 90px;
+    }
+  }
+
+  .wuppo-field-border{
+
+    .wuppo--input{
+      flex: 1 50%;
+    }
+
+    input,
+    select{
+      width: 100%;
+    }
+  }
+
+  .wuppo-field-spinner{
+    input{
+      width: 50px;
+    }
+  }
+
+  .wuppo-field-number{
+
+    .wuppo--wrap{
+      width: 100%;
+    }
+  }
+
+  .wuppo-field-backup{
+
+    .wuppo-export-data{
+      display: none;
+    }
+  }
+
+  .wuppo-field-fieldset{
+
+    .wuppo-fieldset-content{
+      border-color: #e5e5e5;
+    }
+  }
+
+  .wuppo-tabbed-content,
+  .wuppo-sortable-content,
+  .wuppo-repeater-content,
+  .wuppo-fieldset-content,
+  .wuppo-cloneable-content,
+  .wuppo-accordion-content{
+
+    > .wuppo-field{
+      padding: 10px;
+
+      .wuppo-title{
+        margin-bottom: 5px;
+      }
+
+      h4{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .wuppo-depend-hidden.wuppo-depend-on{
+    display: none !important;
+  }
+
+  .wuppo-depend-visible.wuppo-depend-on{
+    border-top: 0 !important;
+  }
+}

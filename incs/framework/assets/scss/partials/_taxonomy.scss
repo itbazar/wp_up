@@ -1,0 +1,114 @@
+/**
+ * 06. Taxonomy
+ */
+.wuppo-taxonomy{
+  max-width: 95%;
+
+  > .wuppo-field{
+    border-top: none !important;
+  }
+
+  > .wuppo-field-heading{
+    font-size: 1.1em;
+    padding: 20px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .wuppo-field-subheading{
+    font-size: 12px;
+    padding: 15px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .wuppo-field-submessage{
+
+    .wuppo-submessage{
+      padding: 15px;
+      border-left-width: 1px;
+      border-left-style: solid;
+      border-right-width: 1px;
+      border-right-style: solid;
+    }
+  }
+
+  > .wuppo-field-notice{
+    background-color: transparent;
+  }
+
+  .wuppo-section-title{
+    display: block;
+    padding: 15px ;
+    background-color: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+  }
+}
+
+.wuppo-taxonomy-add-fields{
+
+  > .wuppo-field{
+    padding: 8px 0;
+
+    > .wuppo-title{
+      float: none;
+      width: 100%;
+      padding: 2px 2px 4px 0;
+
+      h4{
+        font-size: 12px;
+        font-weight: normal;
+      }
+    }
+
+    > .wuppo-fieldset{
+      float: none;
+      width: 100%;
+
+      > .wuppo-help{
+        right: -5px;
+      }
+    }
+  }
+
+  + p.submit{
+    margin-top: 0;
+  }
+}
+
+.wuppo-taxonomy-edit-fields{
+
+  > .wuppo-field{
+    padding: 20px 0;
+
+    > .wuppo-title{
+      width: 200px;
+
+      h4{
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 1.3;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+
+    > .wuppo-fieldset{
+      width: calc(100% - 220px);
+
+      > .wuppo-help{
+        top: -5px;
+        right: -5px;
+      }
+    }
+  }
+
+  > .wuppo-field-submessage{
+    margin: 20px 0;
+  }
+
+  > .wuppo-field-subheading,
+  > .wuppo-field-heading{
+    margin: 20px 0;
+    border: 1px solid #ddd;
+  }
+}

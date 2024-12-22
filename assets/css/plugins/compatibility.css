@@ -1,0 +1,13 @@
+/* woodmart theme */
+.woodmart-my-account-links, .wd-my-account-links{
+    display: none !important;
+}
+ 
+/* passazh theme */
+.passazh-my-account-links {
+    display: none;
+}
+
+.dashboard-links {
+    display: none;
+}

@@ -1,0 +1,1964 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: User Panel Pro\n"
+"POT-Creation-Date: 2021-04-28 02:01+0430\n"
+"PO-Revision-Date: 2020-04-22 00:55+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: user-panel-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: incs/framework\n"
+
+#: classes/class-wuppadmincontentmenus.php:21
+#: classes/class-wuppadmincontentmenus.php:23
+msgid "Default menus"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:31
+#: classes/class-wuppadmincontentmenus.php:33
+msgid "WooCommerce menus"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:41
+#: classes/class-wuppadmincontentmenus.php:43
+msgid "EDD menus"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:51
+#: classes/class-wuppadmincontentmenus.php:53
+msgid "Awesome support"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:61
+#: classes/class-wuppadmincontentmenus.php:63
+msgid "Links"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:72
+#: classes/class-wuppadmincontentmenus.php:74
+msgid "Groups"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:83
+#: classes/class-wuppadmincontentmenus.php:85
+msgid "Arrange"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:101
+msgid "menus"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:113
+#: classes/class-wuppadmincontentmenus.php:115
+msgid "Base plugin update"
+msgstr ""
+
+#: classes/class-wuppadmincontentmenus.php:131
+#: templates/panel/self/edit_profile.php:60
+msgid "update"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:11
+msgid "User panel pro"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:12 classes/class-wuppoptions.php:33
+#: classes/class-wupppages.php:191
+msgid "User panel"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:22
+msgid "User panel settings"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:23 classes/class-wuppoptions.php:158
+#: templates/panel/header.php:46
+msgid "Settings"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:57
+msgid "User panel menus"
+msgstr ""
+
+#: classes/class-wuppadminmenus.php:58
+msgid "Menus"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:50
+msgid "The name should not be left blank"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:56
+msgid "The user role tag is not approved"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:85
+msgid "You do not have permission to edit this role"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:110
+msgid "Role updated!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:110
+msgid "Role added!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:119
+#: classes/class-wuppadminmethods.php:149 classes/class-wuppupload.php:40
+msgid "Unspecified data"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:141
+msgid "Role removed!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:294
+msgid "The xxxx field should not be empty"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:314
+msgid "The username is already exists!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:321
+msgid "Email address is already exists!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:340
+msgid "The Phone number is already exists!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:342
+msgid "This number is already registered in the details of an order!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:364
+msgid "Non-English Username are not acceptable!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:367
+msgid "Username invalid!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:370
+msgid ""
+"There must be at least one of the fields of username, email or phone number!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:417
+msgid "Login completed successfully, Redirecting..."
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:424
+msgid "Login information is invalid!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:439
+msgid "Login was successful"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:486
+msgid "Password changed!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:492
+msgid "It is not possible to change the password!"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:581
+msgid "Registration completed successfully. Redirecting"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:584
+msgid "It is not possible to create an account, try again"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:629
+msgid "Profile updated successfully"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:639
+msgid "you can't edit your profile"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:656
+msgid "An unexpected problem has occurred"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:738
+msgid "Wellcome"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:740
+msgid "Visit site"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:762
+#: classes/class-wuppadminmethods.php:764
+#: classes/class-wuppadminmethods.php:781
+#: classes/class-wuppadminmethods.php:783
+msgid "Restore Password"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:772
+#: classes/class-wuppadminmethods.php:791
+msgid "Recovery email sent to you"
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:799
+msgid "Account not founded!"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:93
+msgid "New item added!"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:104
+msgid "New menu"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:111
+msgid ""
+"In this section, you can use raw html, plain text or short code to display "
+"content."
+msgstr ""
+
+#: classes/class-wuppadminviews.php:119
+msgid "New link"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:135
+msgid "New group"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:180
+msgid "Dashboard"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:191
+msgid "profile Details"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:205
+msgid "Orders"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:216
+msgid "Downloads"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:227
+msgid "Addresses"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:238
+msgid "Edit account"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:251
+msgid "Download history"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:262
+msgid "Purchase history"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:273
+msgid "Profile editor"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:286
+msgid "My tickets"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:329 classes/class-wuppadminviews.php:344
+#: classes/class-wuppadminviews.php:358 classes/class-wuppadminviews.php:372
+#: classes/class-wuppadminviews.php:397 classes/class-wuppadminviews.php:418
+#: classes/class-wuppadminviews.php:453 classes/class-wuppsupportplugins.php:63
+#: classes/class-wuppsupportplugins.php:80
+#: classes/class-wuppsupportplugins.php:97
+msgid "Save"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:330 classes/class-wuppsupportplugins.php:64
+#: classes/class-wuppsupportplugins.php:81
+#: classes/class-wuppsupportplugins.php:98
+msgid "Add menu"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:398
+msgid "Add link"
+msgstr ""
+
+#: classes/class-wuppadminviews.php:419
+msgid "Add group"
+msgstr ""
+
+#: classes/class-wuppformatter.php:532
+msgid "فروردین"
+msgstr ""
+
+#: classes/class-wuppformatter.php:533
+msgid "اردیبهشت"
+msgstr ""
+
+#: classes/class-wuppformatter.php:534
+msgid "خرداد"
+msgstr ""
+
+#: classes/class-wuppformatter.php:535
+msgid "تیر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:536
+msgid "مرداد"
+msgstr ""
+
+#: classes/class-wuppformatter.php:537
+msgid "شهریور"
+msgstr ""
+
+#: classes/class-wuppformatter.php:538
+msgid "مهر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:539
+msgid "آبان"
+msgstr ""
+
+#: classes/class-wuppformatter.php:540
+msgid "آذر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:541
+msgid "دی"
+msgstr ""
+
+#: classes/class-wuppformatter.php:542
+msgid "بهمن"
+msgstr ""
+
+#: classes/class-wuppformatter.php:543
+msgid "اسفند"
+msgstr ""
+
+#: classes/class-wuppformatter.php:544
+msgid "unknown"
+msgstr ""
+
+#: classes/class-wuppoptions.php:37
+msgid "Setting"
+msgstr ""
+
+#: classes/class-wuppoptions.php:53
+msgid "General"
+msgstr ""
+
+#: classes/class-wuppoptions.php:88
+msgid "Pages"
+msgstr ""
+
+#: classes/class-wuppoptions.php:95
+msgid "Login and register page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:96
+msgid "select the login and register page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:97 classes/class-wuppoptions.php:108
+#: classes/class-wuppoptions.php:191
+msgid "select page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:106
+msgid "user panel page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:107
+msgid "select the user panel page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:123
+msgid "Mail settings"
+msgstr ""
+
+#: classes/class-wuppoptions.php:130
+msgid "Sender email"
+msgstr ""
+
+#: classes/class-wuppoptions.php:131
+msgid "Email Sender address When an email is sent to a user."
+msgstr ""
+
+#: classes/class-wuppoptions.php:132
+msgid "Use valid email to reduce email spam rates"
+msgstr ""
+
+#: classes/class-wuppoptions.php:137
+msgid "Sender title"
+msgstr ""
+
+#: classes/class-wuppoptions.php:138
+msgid "Email Sender Title When an email is sent to a user."
+msgstr ""
+
+#: classes/class-wuppoptions.php:148 classes/class-wupppages.php:186
+msgid "Login and Register"
+msgstr ""
+
+#: classes/class-wuppoptions.php:167
+msgid "Enable registration"
+msgstr ""
+
+#: classes/class-wuppoptions.php:168
+msgid "Enable if you want users to be able to register"
+msgstr ""
+
+#: classes/class-wuppoptions.php:175
+msgid "Enable password recovery"
+msgstr ""
+
+#: classes/class-wuppoptions.php:176 classes/class-wuppoptions.php:183
+msgid "Enable if you want users to be able to recover their password"
+msgstr ""
+
+#: classes/class-wuppoptions.php:182
+msgid "Activate acceptance of rules"
+msgstr ""
+
+#: classes/class-wuppoptions.php:189
+msgid "Select rules and regulations page"
+msgstr ""
+
+#: classes/class-wuppoptions.php:190
+msgid "This page will be linked in the register section."
+msgstr ""
+
+#: classes/class-wuppoptions.php:207
+msgid "Register settings"
+msgstr ""
+
+#: classes/class-wuppoptions.php:215
+msgid "Default user role in registration"
+msgstr ""
+
+#: classes/class-wuppoptions.php:216
+msgid "You can change the default user role when registering."
+msgstr ""
+
+#: classes/class-wuppoptions.php:217
+msgid "Select a user role"
+msgstr ""
+
+#: classes/class-wuppoptions.php:223
+msgid "Send WellCome Email"
+msgstr ""
+
+#: classes/class-wuppoptions.php:224
+msgid "Send welcome email to newly registered users"
+msgstr ""
+
+#: classes/class-wuppoptions.php:229
+msgid "Register form type"
+msgstr ""
+
+#: classes/class-wuppoptions.php:236
+msgid "Registration fields"
+msgstr ""
+
+#: classes/class-wuppoptions.php:243
+msgid "Field name"
+msgstr ""
+
+#: classes/class-wuppoptions.php:248
+msgid "Display or hidden"
+msgstr ""
+
+#: classes/class-wuppoptions.php:253
+msgid "status"
+msgstr ""
+
+#: classes/class-wuppoptions.php:255
+msgid "necessary"
+msgstr ""
+
+#: classes/class-wuppoptions.php:256
+msgid "optional"
+msgstr ""
+
+#: classes/class-wuppoptions.php:263
+msgid "Max length"
+msgstr ""
+
+#: classes/class-wuppoptions.php:268
+msgid "Meta key"
+msgstr ""
+
+#: classes/class-wuppoptions.php:276
+msgid "type"
+msgstr ""
+
+#: classes/class-wuppoptions.php:284
+msgid "First name"
+msgstr ""
+
+#: classes/class-wuppoptions.php:292
+msgid "Last name"
+msgstr ""
+
+#: classes/class-wuppoptions.php:300
+msgid "User name"
+msgstr ""
+
+#: classes/class-wuppoptions.php:308 classes/class-wupptools.php:189
+msgid "Email address"
+msgstr ""
+
+#: classes/class-wuppoptions.php:316 templates/login/forms/phonenumber.php:6
+#: templates/login/forms/phonenumber_password.php:6
+msgid "Phone number"
+msgstr ""
+
+#: classes/class-wuppoptions.php:324 classes/class-wupptools.php:201
+#: templates/login/forms/custom_password.php:17
+#: templates/login/forms/default.php:7
+#: templates/login/forms/email_password.php:14
+#: templates/login/forms/phonenumber_password.php:14
+#: templates/login/forms/uep_password.php:14
+#: templates/login/forms/username_password.php:14
+msgid "Password"
+msgstr ""
+
+#: classes/class-wuppoptions.php:343
+msgid "Email settings"
+msgstr ""
+
+#: classes/class-wuppoptions.php:352
+msgid "Email password recovery"
+msgstr ""
+
+#: classes/class-wuppoptions.php:353
+msgid "This email will be sent when the user requests a password recovery!"
+msgstr ""
+
+#: classes/class-wuppoptions.php:355
+msgid ""
+"Hello {display_name} Dear; You have sent a request to change the password. "
+"If this request was not made by you and you do not know about it, ignore "
+"this message. restore link {OTP}"
+msgstr ""
+
+#: classes/class-wuppoptions.php:360
+msgid "Account activation email"
+msgstr ""
+
+#: classes/class-wuppoptions.php:361
+msgid "This email is sent when the user requests account verification"
+msgstr ""
+
+#: classes/class-wuppoptions.php:363
+msgid ""
+"Hello {display_name} Dear; To activate your account, use this code {OTP}"
+msgstr ""
+
+#: classes/class-wuppoptions.php:368
+msgid "Welcome email"
+msgstr ""
+
+#: classes/class-wuppoptions.php:369
+msgid "This email is sent when the user registers"
+msgstr ""
+
+#: classes/class-wuppoptions.php:371
+msgid "Hello {display_name} Dear; Welcome to our site"
+msgstr ""
+
+#: classes/class-wuppoptions.php:383
+msgid "Redirects"
+msgstr ""
+
+#: classes/class-wuppoptions.php:392
+msgid "redirect admin users"
+msgstr ""
+
+#: classes/class-wuppoptions.php:393
+msgid "redirect admin users to wordpress dashboard page after login"
+msgstr ""
+
+#: classes/class-wuppoptions.php:399
+msgid "Redirect after sign in"
+msgstr ""
+
+#: classes/class-wuppoptions.php:400
+msgid ""
+"By activating this option, you can redirect users to specific page after "
+"sign in."
+msgstr ""
+
+#: classes/class-wuppoptions.php:406 classes/class-wuppoptions.php:421
+msgid "Redirect link"
+msgstr ""
+
+#: classes/class-wuppoptions.php:407
+msgid "redirect the user to this page after sign in"
+msgstr ""
+
+#: classes/class-wuppoptions.php:414
+msgid "Redirect after sign up"
+msgstr ""
+
+#: classes/class-wuppoptions.php:415
+msgid ""
+"By activating this option, you can redirect users specific page after sign "
+"up."
+msgstr ""
+
+#: classes/class-wuppoptions.php:422
+msgid "redirect the user to this page after sign up"
+msgstr ""
+
+#: classes/class-wuppoptions.php:436
+msgid "Graphics"
+msgstr ""
+
+#: classes/class-wuppoptions.php:445
+msgid "General options"
+msgstr ""
+
+#: classes/class-wuppoptions.php:453
+msgid "Favicon"
+msgstr ""
+
+#: classes/class-wuppoptions.php:465
+msgid "Typography"
+msgstr ""
+
+#: classes/class-wuppoptions.php:473
+msgid "Body Typography"
+msgstr ""
+
+#: classes/class-wuppoptions.php:474
+msgid ""
+"These settings will be applied to the entire user panel and login screen"
+msgstr ""
+
+#: classes/class-wuppoptions.php:495
+msgid "Header"
+msgstr ""
+
+#: classes/class-wuppoptions.php:514
+msgid "Header background color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:515
+msgid "You can change the background color of the header"
+msgstr ""
+
+#: classes/class-wuppoptions.php:522
+msgid "Header text color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:523
+msgid "You can change the text color of the header"
+msgstr ""
+
+#: classes/class-wuppoptions.php:530
+msgid "Show logo"
+msgstr ""
+
+#: classes/class-wuppoptions.php:531
+msgid "This option activates the logo section"
+msgstr ""
+
+#: classes/class-wuppoptions.php:537
+msgid "header brand name"
+msgstr ""
+
+#: classes/class-wuppoptions.php:538
+msgid "User Panel"
+msgstr ""
+
+#: classes/class-wuppoptions.php:544
+msgid "Brand text color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:545
+msgid "color of brand name text in header"
+msgstr ""
+
+#: classes/class-wuppoptions.php:552
+msgid "Brand text size"
+msgstr ""
+
+#: classes/class-wuppoptions.php:560
+msgid "logo"
+msgstr ""
+
+#: classes/class-wuppoptions.php:561
+msgid "It is better to use the site symbol"
+msgstr ""
+
+#: classes/class-wuppoptions.php:567
+msgid "Logo link"
+msgstr ""
+
+#: classes/class-wuppoptions.php:581
+msgid "Content box"
+msgstr ""
+
+#: classes/class-wuppoptions.php:589
+msgid "The content main background"
+msgstr ""
+
+#: classes/class-wuppoptions.php:590 classes/class-wuppoptions.php:745
+msgid "Background with photos, colors and ..."
+msgstr ""
+
+#: classes/class-wuppoptions.php:618
+msgid "Sidebar"
+msgstr ""
+
+#: classes/class-wuppoptions.php:626 classes/class-wuppoptions.php:716
+msgid "Different graphics, login and register form"
+msgstr ""
+
+#: classes/class-wuppoptions.php:636
+msgid "Sidebar background color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:643
+msgid "Menu links background color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:658
+msgid "Menu links text color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:682
+msgid "Footer"
+msgstr ""
+
+#: classes/class-wuppoptions.php:690
+msgid "Copyright text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:691
+msgid "This text is displayed inside the copyright section of the user panel."
+msgstr ""
+
+#: classes/class-wuppoptions.php:694
+msgid "Copyright © wpuserpanel.com 2021"
+msgstr ""
+
+#: classes/class-wuppoptions.php:708
+msgid "Login and register graphics"
+msgstr ""
+
+#: classes/class-wuppoptions.php:726
+msgid "Show back home button"
+msgstr ""
+
+#: classes/class-wuppoptions.php:733
+msgid "back home button position"
+msgstr ""
+
+#: classes/class-wuppoptions.php:735
+msgid "Right"
+msgstr ""
+
+#: classes/class-wuppoptions.php:736
+msgid "Left"
+msgstr ""
+
+#: classes/class-wuppoptions.php:744
+msgid "The main background"
+msgstr ""
+
+#: classes/class-wuppoptions.php:767
+msgid "Background color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:768
+msgid "You can change the background color of the login and register page!"
+msgstr ""
+
+#: classes/class-wuppoptions.php:781
+msgid "Color the registration and login buttons"
+msgstr ""
+
+#: classes/class-wuppoptions.php:791
+msgid "The side text of the login section"
+msgstr ""
+
+#: classes/class-wuppoptions.php:792
+msgid "This text is displayed inside the side sction of login form"
+msgstr ""
+
+#: classes/class-wuppoptions.php:795
+msgid ""
+"Welcome back! To log in, please enter your account information. If you have "
+"never subscribed to our site, sign up now with a few simple steps."
+msgstr ""
+
+#: classes/class-wuppoptions.php:801
+msgid "Side text of the register section"
+msgstr ""
+
+#: classes/class-wuppoptions.php:802
+msgid "This text is displayed inside the side sction of register form"
+msgstr ""
+
+#: classes/class-wuppoptions.php:805
+msgid ""
+"Join us! You can easily register on the site by entering your information "
+"and use the features of your account. If you are already a member of the "
+"site, just log in!"
+msgstr ""
+
+#: classes/class-wuppoptions.php:820
+msgid "Email graphics"
+msgstr ""
+
+#: classes/class-wuppoptions.php:828
+msgid "Email Logo"
+msgstr ""
+
+#: classes/class-wuppoptions.php:830
+msgid "Upload an image"
+msgstr ""
+
+#: classes/class-wuppoptions.php:835
+msgid "Header text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:836
+msgid "Text for header"
+msgstr ""
+
+#: classes/class-wuppoptions.php:841
+msgid "Footer text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:842
+msgid "Text for Footer"
+msgstr ""
+
+#: classes/class-wuppoptions.php:847
+msgid "Telegram"
+msgstr ""
+
+#: classes/class-wuppoptions.php:849
+msgid "Telegram link"
+msgstr ""
+
+#: classes/class-wuppoptions.php:854
+msgid "Instagram"
+msgstr ""
+
+#: classes/class-wuppoptions.php:856
+msgid "instagram link"
+msgstr ""
+
+#: classes/class-wuppoptions.php:870
+msgid "Custom style"
+msgstr ""
+
+#: classes/class-wuppoptions.php:878
+msgid "Panel custom css"
+msgstr ""
+
+#: classes/class-wuppoptions.php:879 classes/class-wuppoptions.php:901
+msgid "These styles can be applied to the whole page!"
+msgstr ""
+
+#: classes/class-wuppoptions.php:889
+msgid "Panel custom scripts"
+msgstr ""
+
+#: classes/class-wuppoptions.php:890 classes/class-wuppoptions.php:912
+msgid "These js can be applied to the whole page!"
+msgstr ""
+
+#: classes/class-wuppoptions.php:900
+msgid "Login custom css"
+msgstr ""
+
+#: classes/class-wuppoptions.php:911
+msgid "Login custom scripts"
+msgstr ""
+
+#: classes/class-wuppoptions.php:929
+msgid "compatibility settings"
+msgstr ""
+
+#: classes/class-wuppoptions.php:937
+msgid "Remove panel page styles custom list"
+msgstr ""
+
+#: classes/class-wuppoptions.php:938 classes/class-wuppoptions.php:947
+#: classes/class-wuppoptions.php:956 classes/class-wuppoptions.php:965
+msgid "Separate links or titles with a ,"
+msgstr ""
+
+#: classes/class-wuppoptions.php:946
+msgid "Remove panel page scripts custom list"
+msgstr ""
+
+#: classes/class-wuppoptions.php:955
+msgid "Remove login page styles custom list"
+msgstr ""
+
+#: classes/class-wuppoptions.php:964
+msgid "Remove login page scripts custom list"
+msgstr ""
+
+#: classes/class-wuppoptions.php:978
+msgid "Features"
+msgstr ""
+
+#: classes/class-wuppoptions.php:989
+msgid "Panel features"
+msgstr ""
+
+#: classes/class-wuppoptions.php:997
+msgid "Allow to upload avatars"
+msgstr ""
+
+#: classes/class-wuppoptions.php:998
+msgid "Allow users to set a personal symbol image"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1004
+msgid "Upload restrictions"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1005
+msgid "In this section, you can specify the maximum size of the uploaded file"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1016
+msgid "Restricted user roles"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1017
+msgid "User roles that can not upload the avatar"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1018
+#: incs/admin/users/account-group-item.php:96
+#: incs/admin/users/account-link-item.php:102
+#: incs/admin/users/account-menu-item.php:132
+msgid "Select user role"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1035
+msgid "Dashboard features"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1043
+msgid "Dashboard boxes"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1048
+#: templates/panel/woo/downloads/download-items.php:38
+msgid "Title"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1053
+msgid "Status"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1059
+msgid "Box background"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1075
+msgid "text color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1081
+msgid "Icon"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1087
+msgid "Icon color"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1093
+msgid "box size"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1106
+msgid "shortcode"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1107
+msgid "Please use only plugin shortcodes"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1113
+msgid "Comments registered"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1126
+msgid "Bought products"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1139
+msgid "Supports tickets"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1152
+msgid "Total orders price"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1169
+msgid "Display discount code"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1170
+msgid "This option activates the discount code section on the dashboard"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1176
+msgid "Discount text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1177
+msgid "Discount text to display on the dashboard"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1183
+msgid "Discount sub text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1184
+msgid "sub text to display under main text"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1190
+msgid "Discount code"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1191
+msgid "Discount code for public release"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1197
+msgid "Discount image"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1200
+msgid "Add Image"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1201
+msgid "Remove Image"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1208
+msgid "Display woo notifications"
+msgstr ""
+
+#: classes/class-wuppoptions.php:1209
+msgid "This option activates showing woocommerce dashboard notice"
+msgstr ""
+
+#: classes/class-wuppsupportplugins.php:130
+#: classes/class-wuppsupportplugins.php:132
+msgid "Advanced support ticket"
+msgstr ""
+
+#: classes/class-wuppsupportplugins.php:139
+#: classes/class-wuppsupportplugins.php:141
+#: classes/class-wuppsupportplugins.php:180
+msgid "My wallet"
+msgstr ""
+
+#: classes/class-wuppsupportplugins.php:148
+#: classes/class-wuppsupportplugins.php:150
+#: classes/class-wuppsupportplugins.php:194
+msgid "My Subscription"
+msgstr ""
+
+#: classes/class-wuppsupportplugins.php:166
+msgid "Support ticket"
+msgstr ""
+
+#: classes/class-wupptools.php:68
+msgid "January"
+msgstr ""
+
+#: classes/class-wupptools.php:70
+msgid "February"
+msgstr ""
+
+#: classes/class-wupptools.php:72
+msgid "March"
+msgstr ""
+
+#: classes/class-wupptools.php:74
+msgid "April"
+msgstr ""
+
+#: classes/class-wupptools.php:76
+msgid "May"
+msgstr ""
+
+#: classes/class-wupptools.php:78
+msgid "June"
+msgstr ""
+
+#: classes/class-wupptools.php:80
+msgid "July"
+msgstr ""
+
+#: classes/class-wupptools.php:82
+msgid "August"
+msgstr ""
+
+#: classes/class-wupptools.php:84
+msgid "September"
+msgstr ""
+
+#: classes/class-wupptools.php:86
+msgid "October"
+msgstr ""
+
+#: classes/class-wupptools.php:88
+msgid "November"
+msgstr ""
+
+#: classes/class-wupptools.php:90
+msgid "December"
+msgstr ""
+
+#: classes/class-wupptools.php:92
+msgid "Unknown"
+msgstr ""
+
+#: classes/class-wupptools.php:116
+msgid "All user roles"
+msgstr ""
+
+#: classes/class-wupptools.php:164
+msgid "Default register form"
+msgstr ""
+
+#: classes/class-wupptools.php:193
+msgid "Link"
+msgstr ""
+
+#: classes/class-wupptools.php:197
+msgid "Text"
+msgstr ""
+
+#: classes/class-wupptools.php:205
+msgid "Number"
+msgstr ""
+
+#: classes/class-wupptools.php:209
+msgid "List"
+msgstr ""
+
+#: classes/class-wupptools.php:213
+msgid "Radio button"
+msgstr ""
+
+#: classes/class-wupptools.php:217
+msgid "Check box button"
+msgstr ""
+
+#: classes/class-wupptools.php:232
+msgid "Year"
+msgstr ""
+
+#: classes/class-wupptools.php:233
+msgid "Month"
+msgstr ""
+
+#: classes/class-wupptools.php:234
+msgid "Day"
+msgstr ""
+
+#: classes/class-wupptools.php:235
+msgid "Hour"
+msgstr ""
+
+#: classes/class-wupptools.php:236
+msgid "Min"
+msgstr ""
+
+#: classes/class-wupptools.php:237
+msgid "sec"
+msgstr ""
+
+#: classes/class-wupptools.php:238
+msgid "before"
+msgstr ""
+
+#: classes/class-wuppupload.php:23
+msgid "File size is big"
+msgstr ""
+
+#: classes/class-wuppupload.php:34
+msgid "Uploaded success"
+msgstr ""
+
+#: classes/class-wuppupload.php:37
+msgid "Try again"
+msgstr ""
+
+#: classes/class-wuppusers.php:114
+msgid "The previous password is incorrect"
+msgstr ""
+
+#: classes/class-wuppusers.php:117
+msgid "New passwords do not match"
+msgstr ""
+
+#: classes/class-wuppusers.php:123
+msgid "Accounts updated"
+msgstr ""
+
+#: classes/class-wuppwoo.php:80
+msgid "Toman xxxx for yyyy product"
+msgstr ""
+
+#: classes/class-wuppwoo.php:89
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: classes/class-wuppwoo.php:92
+msgid ""
+"The #xxxx order has been registered in yyyy history and is currently in vvvv "
+"status."
+msgstr ""
+
+#: classes/class-wuppwoo.php:202
+msgid "Shipping address"
+msgstr ""
+
+#: classes/class-wuppwoo.php:203 classes/class-wuppwoo.php:209
+msgid "Billing address"
+msgstr ""
+
+#: classes/class-wuppwoo.php:233
+msgid "The xxxx field is required."
+msgstr ""
+
+#: classes/class_wupploader.php:110 classes/class_wupploader.php:111
+#: classes/class_wupploader.php:285 classes/class_wupploader.php:307
+#: classes/class_wupploader.php:324
+msgid "Register version"
+msgstr ""
+
+#: classes/class_wupploader.php:287
+msgid ""
+"You already register your license key. to re validate it, you can use this "
+"form."
+msgstr ""
+
+#: classes/class_wupploader.php:289
+msgid "Your current license:"
+msgstr ""
+
+#: classes/class_wupploader.php:301
+msgid "Revalidate"
+msgstr ""
+
+#: classes/class_wupploader.php:302
+msgid "Delete and submit another license"
+msgstr ""
+
+#: classes/class_wupploader.php:306
+msgid "New license key"
+msgstr ""
+
+#: classes/class_wupploader.php:309 classes/class_wupploader.php:315
+#: classes/class_wupploader.php:326
+msgid "Please wait..."
+msgstr ""
+
+#: classes/class_wupploader.php:321
+msgid "Please activate plugin with your license key to all features work."
+msgstr ""
+
+#: classes/class_wupploader.php:323
+msgid "License key"
+msgstr ""
+
+#: classes/class_wupploader.php:355 classes/class_wupploader.php:387
+msgid "Something goes wrong please try again."
+msgstr ""
+
+#: classes/class_wupploader.php:417 classes/class_wupploader.php:487
+msgid "Please insert your license code"
+msgstr ""
+
+#: classes/class_wupploader.php:433
+msgid "License code is valid."
+msgstr ""
+
+#: classes/class_wupploader.php:437 classes/class_wupploader.php:501
+msgid "Thanks! Your license activated successfully."
+msgstr ""
+
+#: classes/class_wupploader.php:465
+#, php-format
+msgid "To activating your %s please insert you license key"
+msgstr ""
+
+#: classes/class_wupploader.php:466
+msgid "Register Now"
+msgstr ""
+
+#: classes/class_wupploader.php:472
+#, php-format
+msgid "There is something wrong with your %s license. please check it."
+msgstr ""
+
+#: classes/class_wupploader.php:473
+msgid "Check Now"
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:35
+msgid "Group title"
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:60
+msgid "Group icon"
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:77
+msgid "Group custom class"
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:94
+#: incs/admin/users/account-link-item.php:100
+#: incs/admin/users/account-menu-item.php:130
+msgid "Role"
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:95
+#: incs/admin/users/account-link-item.php:101
+#: incs/admin/users/account-menu-item.php:131
+msgid "User roles that can see this menu if empty all user can"
+msgstr ""
+
+#: incs/admin/users/account-group-item.php:116
+msgid "Show default"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:23
+msgid "Link address"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:24
+msgid "Use the full link"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:41
+msgid "Link title"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:66
+msgid "Link icon"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:83
+msgid "Link custom class"
+msgstr ""
+
+#: incs/admin/users/account-link-item.php:122
+msgid "Open in new tab"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:26
+msgid "Menu link"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:27
+msgid ""
+"The slug must be in English, without spaces, only letters and numbers and "
+"dash"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:53
+msgid "Menu main link"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:71
+msgid "Menu title"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:96
+msgid "Menu icon"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:113
+msgid "Menu custom class"
+msgstr ""
+
+#: incs/admin/users/account-menu-item.php:151
+msgid "Menu custom content"
+msgstr ""
+
+#: incs/admin/users/account-sortable-menus.php:168
+#: incs/admin/users/account-sortable-menus.php:216
+msgid "waiting ..."
+msgstr ""
+
+#: incs/admin/users/account-sortable-menus.php:197
+msgid "Information saved!"
+msgstr ""
+
+#: incs/admin/users/account-sortable-menus.php:206
+#: incs/admin/users/account-sortable-menus.php:263
+msgid "No internet connection"
+msgstr ""
+
+#: incs/admin/users/users.php:80
+msgid "The group should not be empty"
+msgstr ""
+
+#: incs/pub/modal_dialog.php:23
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: incs/pub/modal_dialog.php:30
+msgid "Done"
+msgstr ""
+
+#: incs/pub/modal_dialog.php:31
+msgid "Cancel"
+msgstr ""
+
+#: source.php:3
+msgid "user panel pro"
+msgstr ""
+
+#: templates/login/__forget.php:4
+msgid "Forget password"
+msgstr ""
+
+#: templates/login/__forget.php:22
+msgid "Email or userName"
+msgstr ""
+
+#: templates/login/__forget.php:36 templates/login/forms/change_password.php:52
+#: templates/login/login.php:286
+msgid "Restore"
+msgstr ""
+
+#: templates/login/__forget.php:43
+msgid "Enter the verification code to change the password!"
+msgstr ""
+
+#: templates/login/__forget.php:55
+msgid "Remember your information?"
+msgstr ""
+
+#: templates/login/__register.php:4 templates/login/__side.php:13
+#: templates/login/login.php:198
+msgid "Register"
+msgstr ""
+
+#: templates/login/__register.php:44 templates/panel/self/edit_profile.php:28
+msgid "repeat password"
+msgstr ""
+
+#: templates/login/__register.php:82
+msgid "rules"
+msgstr ""
+
+#: templates/login/__register.php:83
+msgid "I agree with the rules"
+msgstr ""
+
+#: templates/login/__register.php:96
+msgid "register"
+msgstr ""
+
+#: templates/login/__register.php:104 templates/login/__side.php:16
+#: templates/login/__sign_in.php:5 templates/login/__sign_in.php:36
+#: templates/login/forms/default.php:60
+msgid "Login"
+msgstr ""
+
+#: templates/login/__register.php:109
+msgid ""
+"To complete the registration, you must enter the verification code sent to "
+"you!"
+msgstr ""
+
+#: templates/login/__sign_in.php:45
+msgid "To enter, enter the verification code sent in this section!"
+msgstr ""
+
+#: templates/login/__sign_in.php:57
+msgid "Forgot your login information?"
+msgstr ""
+
+#: templates/login/__sign_in.php:62
+msgid "Create account"
+msgstr ""
+
+#: templates/login/forms/auth_code.php:18
+msgid "Auth code"
+msgstr ""
+
+#: templates/login/forms/auth_code.php:41 templates/login/login.php:352
+msgid "authentication"
+msgstr ""
+
+#: templates/login/forms/change_password.php:9
+msgid "New password"
+msgstr ""
+
+#: templates/login/forms/change_password.php:19
+msgid "Repeat new password"
+msgstr ""
+
+#: templates/login/forms/change_password.php:28
+msgid "change"
+msgstr ""
+
+#: templates/login/forms/change_password.php:43
+msgid "Waiting ..."
+msgstr ""
+
+#: templates/login/forms/change_password.php:64 templates/login/login.php:374
+#: templates/login/login.php:435
+msgid "No internet connection!"
+msgstr ""
+
+#: templates/login/forms/custom_password.php:28
+#: templates/login/forms/default.php:18
+#: templates/login/forms/email_password.php:25
+#: templates/login/forms/phonenumber_password.php:25
+#: templates/login/forms/uep_password.php:25
+#: templates/login/forms/username_password.php:25
+msgid "remember me"
+msgstr ""
+
+#: templates/login/forms/default.php:3
+msgid "Email or username"
+msgstr ""
+
+#: templates/login/forms/default.php:105
+msgid "Complete form"
+msgstr ""
+
+#: templates/login/forms/email.php:6 templates/login/forms/email_password.php:6
+msgid "Email"
+msgstr ""
+
+#: templates/login/forms/uep_password.php:6
+msgid "Email, phoneNumber or userName"
+msgstr ""
+
+#: templates/login/forms/username_password.php:6
+msgid "Username"
+msgstr ""
+
+#: templates/login/login.php:134 templates/login/login.php:380
+msgid "Complete form!"
+msgstr ""
+
+#: templates/login/login.php:157
+msgid "Fill in the star fields"
+msgstr ""
+
+#: templates/login/login.php:171
+msgid "Passwords is wrong"
+msgstr ""
+
+#: templates/login/login.php:240
+msgid "accept the rules"
+msgstr ""
+
+#: templates/login/login.php:317
+msgid "Complete form inputs"
+msgstr ""
+
+#: templates/login/login.php:389 templates/login/login.php:395
+#: templates/login/login.php:428
+msgid "Send code again"
+msgstr ""
+
+#: templates/panel/content-group.php:10 templates/panel/content.php:16
+msgid "panel"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:6
+msgid "purchase history"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:18
+msgid "ID"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:19
+#: templates/panel/edd/billings/details-content.php:62
+msgid "Date"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:20
+msgid "Amount"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:21
+msgid "Details"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:39
+msgid "Complete Purchase"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:45
+msgid "View Details and Downloads"
+msgstr ""
+
+#: templates/panel/edd/billings/billings.php:63
+msgid "You have not made any purchases"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:9
+msgid "The specified receipt ID appears to be invalid"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:32
+msgid "Payment"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:42
+msgid "Payment Status"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:49
+msgid "Payment Key"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:56
+msgid "Payment Method"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:69
+msgid "Fees"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:86
+msgid "Discount(s)"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:93
+msgid "Tax"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:101
+msgid "Subtotal"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:108
+msgid "Total Price"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:128
+msgid "Products"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:134
+msgid "Name"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:136
+msgid "SKU"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:139
+msgid "Quantity"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:141
+msgid "Price"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:211
+msgid "No downloadable files found for this bundled item."
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:220
+#: templates/panel/edd/downloads/downloads.php:71
+msgid "No downloadable files found."
+msgstr ""
+
+#: templates/panel/edd/billings/details.php:4
+msgid "Bought details"
+msgstr ""
+
+#: templates/panel/edd/billings/details.php:7
+#: templates/panel/woo/addresses/address-edit.php:4
+#: templates/panel/woo/orders/order-visit.php:6
+msgid "Back"
+msgstr ""
+
+#: templates/panel/edd/downloads/downloads.php:12
+msgid "Download Name"
+msgstr ""
+
+#: templates/panel/edd/downloads/downloads.php:14
+msgid "Files"
+msgstr ""
+
+#: templates/panel/edd/downloads/downloads.php:76
+#, php-format
+msgid "Payment status is %s"
+msgstr ""
+
+#: templates/panel/edd/downloads/downloads.php:103
+msgid "You have not purchased any downloads"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:18
+msgid "Saved cart"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:19
+#, php-format
+msgid "You have a saved cart, <a href=\"%s\">click here</a> to restore it."
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:25
+msgid "Success"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:26
+msgid "Your profile has been edited successfully."
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:41
+msgid "Change your Name"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:46
+msgid "First Name"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:53
+msgid "Last Name"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:61
+msgid "Display Name"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:87
+msgid "Primary Email Address"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:124
+msgid "Additional Email Addresses"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:146
+msgid "Remove"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:163
+msgid "Change your Billing Address"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:168
+msgid "Line 1"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:175
+msgid "Line 2"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:182
+msgid "City"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:189
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:196
+msgid "Country"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:208
+msgid "State / Province"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:236
+msgid "Change your Password"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:241
+msgid "New Password"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:249
+msgid "Re-enter Password"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:274
+msgid "Save Changes"
+msgstr ""
+
+#: templates/panel/footer.php:6
+msgid "Powered by UP user panel"
+msgstr ""
+
+#: templates/panel/header.php:10
+msgid "go home page"
+msgstr ""
+
+#: templates/panel/header.php:45
+msgid "Inbox"
+msgstr ""
+
+#: templates/panel/header.php:49
+msgid "Logout"
+msgstr ""
+
+#: templates/panel/self/dashboard.php:4
+msgid "Welcome"
+msgstr ""
+
+#: templates/panel/woo/addresses/address-edit.php:3
+msgid "Edit address"
+msgstr ""
+
+#: templates/panel/woo/addresses/addresses-content.php:10
+msgid "Update"
+msgstr ""
+
+#: templates/panel/woo/addresses/addresses-content.php:10
+msgid "Add"
+msgstr ""
+
+#: templates/panel/woo/addresses/addresses-content.php:17
+msgid "You have not yet entered the address for this section!"
+msgstr ""
+
+#: templates/panel/woo/downloads/download-items.php:39
+msgid "Remaining downloads"
+msgstr ""
+
+#: templates/panel/woo/downloads/download-items.php:40
+msgid "Expire"
+msgstr ""
+
+#: templates/panel/woo/downloads/download-items.php:41
+msgid "Operation"
+msgstr ""
+
+#: templates/panel/woo/downloads/download-items.php:52
+msgid "download"
+msgstr ""
+
+#: templates/panel/woo/downloads/downloads.php:14
+msgid "No download founded!"
+msgstr ""
+
+#: templates/panel/woo/downloads/downloads.php:15
+msgid "Visit products"
+msgstr ""
+
+#: templates/panel/woo/orders/order-visit.php:4
+msgid "Order details"
+msgstr ""
+
+#: templates/panel/woo/payment-methods/payment-content.php:3
+msgid "Payment methods"
+msgstr ""
+
+#: templates/panel/wpas/tickets/tickets.php:23
+msgid "Tickets list"
+msgstr ""
+
+#: templates/panel/wpas/tickets/tickets.php:81
+#, php-format
+msgid ""
+"You haven't submitted a ticket yet. <a href=\"%s\">Click here to submit your "
+"first ticket</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "User Panel Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webiha.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"User Panel Pro is The most powerful and best plugin for creating user panel "
+"in WordPress; Synchronized with Woocommers and Easy digital downloads With "
+"unique facilities."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webiha"
+msgstr ""

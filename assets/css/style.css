@@ -1,0 +1,22 @@
+/*================================================================================
+	Item Name: UP plugin - WordPress User Dashboard Template
+	Version: 2.0
+	Author: WEBIHA
+	Author URL: https://wpuserpanel.com
+================================================================================
+*/
+
+@media only screen and (max-width: 768px) {
+    #wupp_downloads table.table thead {
+        display: none;
+    }
+    #wupp_downloads table.table tr {
+        display: block;
+    }
+    #wupp_downloads table.table tbody tr:first-child td:first-child {
+        border-top: 0;
+    }
+    #wupp_downloads table.table tr td{
+        display: block;
+    }
+}

@@ -1,0 +1,3050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Panel Pro\n"
+"POT-Creation-Date: 2022-08-30 10:30+0430\n"
+"PO-Revision-Date: 2024-11-19 22:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: user-panel-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: incs/framework\n"
+
+#: classes/class-wuppadmincontentmenus.php:21
+#: classes/class-wuppadmincontentmenus.php:23
+msgid "Default menus"
+msgstr "منوهای پیشفرض"
+
+#: classes/class-wuppadmincontentmenus.php:31
+#: classes/class-wuppadmincontentmenus.php:33
+msgid "WooCommerce menus"
+msgstr "ووکامرس"
+
+#: classes/class-wuppadmincontentmenus.php:41
+#: classes/class-wuppadmincontentmenus.php:43
+msgid "EDD menus"
+msgstr "ایزی دیجیتال دانلود"
+
+#: classes/class-wuppadmincontentmenus.php:51
+#: classes/class-wuppadmincontentmenus.php:53
+msgid "Awesome support"
+msgstr "تیکت پشتیبانی awesome"
+
+#: classes/class-wuppadmincontentmenus.php:61
+#: classes/class-wuppadmincontentmenus.php:63
+msgid "Links"
+msgstr "لینک ها"
+
+#: classes/class-wuppadmincontentmenus.php:72
+#: classes/class-wuppadmincontentmenus.php:74
+msgid "Groups"
+msgstr "گروه ها"
+
+#: classes/class-wuppadmincontentmenus.php:83
+#: classes/class-wuppadmincontentmenus.php:85
+msgid "Arrange"
+msgstr "ترتیب بندی"
+
+#: classes/class-wuppadmincontentmenus.php:101
+msgid "menus"
+msgstr "منوها"
+
+#: classes/class-wuppadminmenus.php:11 classes/class-wuppadminmenus.php:29
+msgid "User panel pro"
+msgstr "پنل کاربری پیشرفته"
+
+#: classes/class-wuppadminmenus.php:12 classes/class-wuppadminmenus.php:30
+#: classes/class-wuppoptions.php:33 classes/class-wupppages.php:212
+msgid "User panel"
+msgstr "پنل کاربری"
+
+#: classes/class-wuppadminmenus.php:21
+msgid "User panel settings"
+msgstr "تنظیمات پنل کاربری"
+
+#: classes/class-wuppadminmenus.php:22 classes/class-wuppoptions.php:159
+#: templates/panel/header.php:28
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: classes/class-wuppadminmenus.php:66
+msgid "User panel menus"
+msgstr "منوهای پنل کاربری"
+
+#: classes/class-wuppadminmenus.php:67
+msgid "Menus"
+msgstr "منوها"
+
+#: classes/class-wuppadminmethods.php:43
+msgid "The name should not be left blank"
+msgstr "نام نمیتواند خالی رها شود"
+
+#: classes/class-wuppadminmethods.php:49
+msgid "The user role tag is not approved"
+msgstr "تگ نقش کاربری قابل قبول نیست"
+
+#: classes/class-wuppadminmethods.php:78
+msgid "You do not have permission to edit this role"
+msgstr "شما اجازه ویرایش این نقش کاربری را ندارید"
+
+#: classes/class-wuppadminmethods.php:102
+msgid "Role updated!"
+msgstr "نقش کاربری بروزرسانی شد!"
+
+#: classes/class-wuppadminmethods.php:102
+msgid "Role added!"
+msgstr "نقش کاربری اضافه شد!"
+
+#: classes/class-wuppadminmethods.php:111
+#: classes/class-wuppadminmethods.php:140 classes/class-wuppupload.php:40
+msgid "Unspecified data"
+msgstr "داده های نامشخص"
+
+#: classes/class-wuppadminmethods.php:132
+msgid "Role removed!"
+msgstr "نقش کاربری حذف شد!"
+
+#: classes/class-wuppadminmethods.php:275
+msgid "The xxxx field should not be empty"
+msgstr "فیلد xxxx نباید خالی رها شود"
+
+#: classes/class-wuppadminmethods.php:294
+msgid "The username is already exists!"
+msgstr "این نام کاربری قبلا انتخاب شده است!"
+
+#: classes/class-wuppadminmethods.php:301
+msgid "Email address is already exists!"
+msgstr "این آدرس پست الکترونیک قبلا ثبت شده است!"
+
+#: classes/class-wuppadminmethods.php:320
+msgid "The Phone number is already exists!"
+msgstr "این شماره همراه قبلا ثبت شده است!"
+
+#: classes/class-wuppadminmethods.php:345
+msgid "Non-English Username are not acceptable!"
+msgstr "نام کاربری فقط با حروف انگیسی قابل قبول است!"
+
+#: classes/class-wuppadminmethods.php:348
+msgid "Username invalid!"
+msgstr "نام کاربری نامعتبر است!"
+
+#: classes/class-wuppadminmethods.php:351
+msgid ""
+"There must be at least one of the fields of username, email or phone number!"
+msgstr ""
+"حداقل باید یکی از فیلد های نام کاربری ، ایمیل و یا شماره همراه وارد شده "
+"باشند!"
+
+#: classes/class-wuppadminmethods.php:396
+msgid "Login completed successfully, Redirecting..."
+msgstr "ورود با موفقیت انجام شد، در حال انتقال ..."
+
+#: classes/class-wuppadminmethods.php:402
+#: classes/class-wuppadminmethods.php:566
+msgid "An operation error occurred."
+msgstr ""
+
+#: classes/class-wuppadminmethods.php:409
+msgid "Login information is invalid!"
+msgstr "مشخصات ورود نامعتبر است!"
+
+#: classes/class-wuppadminmethods.php:470
+msgid "Password changed!"
+msgstr "تغییر رمزعبور تکمیل شد!"
+
+#: classes/class-wuppadminmethods.php:476
+msgid "It is not possible to change the password!"
+msgstr "تغییر کلمه عبور امکان پذیر نیست!"
+
+#: classes/class-wuppadminmethods.php:561
+msgid "Registration completed successfully. Redirecting"
+msgstr "عضویت با موفقیت انجام شد. در حال انتقال"
+
+#: classes/class-wuppadminmethods.php:570
+msgid "It is not possible to create an account, try again"
+msgstr "ساخت حساب کاربری امکان پذیر نیست، مجدد تلاش کنید"
+
+#: classes/class-wuppadminmethods.php:613
+msgid "Profile updated successfully"
+msgstr "پروفایل شما با موفقیت بروزرسانی شد"
+
+#: classes/class-wuppadminmethods.php:623
+msgid "you can't edit your profile"
+msgstr "شما نمیتوانید حساب خودتان را ویرایش کنید"
+
+#: classes/class-wuppadminmethods.php:639
+msgid "An unexpected problem has occurred"
+msgstr "یک خطای غیرمنتظره رخ داده است"
+
+#: classes/class-wuppadminmethods.php:716
+msgid "Wellcome"
+msgstr "خوش آمدید"
+
+#: classes/class-wuppadminmethods.php:718
+msgid "Visit site"
+msgstr "مشاهده سایت"
+
+#: classes/class-wuppadminmethods.php:739
+#: classes/class-wuppadminmethods.php:741
+#: classes/class-wuppadminmethods.php:758
+#: classes/class-wuppadminmethods.php:760
+msgid "Restore Password"
+msgstr "بازیابی رمز عبور"
+
+#: classes/class-wuppadminmethods.php:749
+#: classes/class-wuppadminmethods.php:768
+msgid "Recovery email sent to you"
+msgstr "ایمیل بازنشانی برای شما ارسال شد"
+
+#: classes/class-wuppadminmethods.php:775
+msgid "Account not founded!"
+msgstr "حساب کاربری یافت نشد!"
+
+#: classes/class-wuppadminviews.php:94
+msgid "New item added!"
+msgstr "اضافه شد!"
+
+#: classes/class-wuppadminviews.php:105
+msgid "New menu"
+msgstr "منو جدید"
+
+#: classes/class-wuppadminviews.php:112
+msgid ""
+"In this section, you can use raw html, plain text or short code to display "
+"content."
+msgstr "در این بخش میتوانید، محتوای html، متنی و یا شورتکد استفاده نمایید."
+
+#: classes/class-wuppadminviews.php:120
+msgid "New link"
+msgstr "لینک جدید"
+
+#: classes/class-wuppadminviews.php:136
+msgid "New group"
+msgstr "گروه جدید"
+
+#: classes/class-wuppadminviews.php:181
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: classes/class-wuppadminviews.php:192
+msgid "profile Details"
+msgstr "جزئیات حساب"
+
+#: classes/class-wuppadminviews.php:206
+msgid "Orders"
+msgstr "سفارشات"
+
+#: classes/class-wuppadminviews.php:217
+msgid "Downloads"
+msgstr "دانلود ها"
+
+#: classes/class-wuppadminviews.php:228
+msgid "Addresses"
+msgstr "آدرس‌ها"
+
+#: classes/class-wuppadminviews.php:239
+msgid "Edit account"
+msgstr "ویرایش حساب کاربری"
+
+#: classes/class-wuppadminviews.php:252
+msgid "Download history"
+msgstr "سوابق دانلود"
+
+#: classes/class-wuppadminviews.php:263
+msgid "Purchase history"
+msgstr "سوابق خرید"
+
+#: classes/class-wuppadminviews.php:274
+msgid "Profile editor"
+msgstr "ویرایشگر پروفایل"
+
+#: classes/class-wuppadminviews.php:287
+msgid "My tickets"
+msgstr "تیکت های من"
+
+#: classes/class-wuppadminviews.php:326 classes/class-wuppadminviews.php:341
+#: classes/class-wuppadminviews.php:355 classes/class-wuppadminviews.php:369
+#: classes/class-wuppadminviews.php:394 classes/class-wuppadminviews.php:415
+#: classes/class-wuppadminviews.php:450 classes/class-wuppsupportplugins.php:63
+#: classes/class-wuppsupportplugins.php:80
+#: classes/class-wuppsupportplugins.php:97
+msgid "Save"
+msgstr "ذخیره"
+
+#: classes/class-wuppadminviews.php:327 classes/class-wuppsupportplugins.php:64
+#: classes/class-wuppsupportplugins.php:81
+#: classes/class-wuppsupportplugins.php:98
+msgid "Add menu"
+msgstr "اضافه کردن منو"
+
+#: classes/class-wuppadminviews.php:395
+msgid "Add link"
+msgstr "اضافه کردن لینک"
+
+#: classes/class-wuppadminviews.php:416
+msgid "Add group"
+msgstr "اضافه کردن گروه"
+
+#: classes/class-wuppformatter.php:532
+msgid "فروردین"
+msgstr ""
+
+#: classes/class-wuppformatter.php:533
+msgid "اردیبهشت"
+msgstr ""
+
+#: classes/class-wuppformatter.php:534
+msgid "خرداد"
+msgstr ""
+
+#: classes/class-wuppformatter.php:535
+msgid "تیر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:536
+msgid "مرداد"
+msgstr ""
+
+#: classes/class-wuppformatter.php:537
+msgid "شهریور"
+msgstr ""
+
+#: classes/class-wuppformatter.php:538
+msgid "مهر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:539
+msgid "آبان"
+msgstr ""
+
+#: classes/class-wuppformatter.php:540
+msgid "آذر"
+msgstr ""
+
+#: classes/class-wuppformatter.php:541
+msgid "دی"
+msgstr ""
+
+#: classes/class-wuppformatter.php:542
+msgid "بهمن"
+msgstr ""
+
+#: classes/class-wuppformatter.php:543
+msgid "اسفند"
+msgstr ""
+
+#: classes/class-wuppformatter.php:544
+msgid "unknown"
+msgstr "نامشخص"
+
+#: classes/class-wuppoptions.php:33
+msgid " <small>by Webiha</small>"
+msgstr " <small>توسط وبیها</small>"
+
+#: classes/class-wuppoptions.php:37
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: classes/class-wuppoptions.php:49
+msgid "Thank you for creating your dashboard with User Panel (up)"
+msgstr ""
+
+#: classes/class-wuppoptions.php:54
+msgid "General"
+msgstr "همگانی"
+
+#: classes/class-wuppoptions.php:89
+msgid "Pages"
+msgstr "صفحات"
+
+#: classes/class-wuppoptions.php:96
+msgid "Login and register page"
+msgstr "صفحه ورود و عضویت"
+
+#: classes/class-wuppoptions.php:97
+msgid "select the login and register page"
+msgstr "صفحه ورود و عضویت را انتخاب کنید"
+
+#: classes/class-wuppoptions.php:98 classes/class-wuppoptions.php:109
+#: classes/class-wuppoptions.php:192
+msgid "select page"
+msgstr "انتخاب برگه"
+
+#: classes/class-wuppoptions.php:107
+msgid "user panel page"
+msgstr "صفحه پنل کاربری"
+
+#: classes/class-wuppoptions.php:108
+msgid "select the user panel page"
+msgstr "صفحه پنل کاربری را انتخاب کنید"
+
+#: classes/class-wuppoptions.php:124
+msgid "Mail settings"
+msgstr "ایمیل"
+
+#: classes/class-wuppoptions.php:131
+msgid "Sender email"
+msgstr "ادرس ایمیل ارسال کننده"
+
+#: classes/class-wuppoptions.php:132
+msgid "Email Sender address When an email is sent to a user."
+msgstr "ادرس ایمیل ارسال کننده زمانی که ایمیلی برای کاربر ارسال میشود."
+
+#: classes/class-wuppoptions.php:133
+msgid "Use valid email to reduce email spam rates"
+msgstr "لطفا جهت جلوگیری از اسپم شدن ایمیل ها از یک ایمیل معتبر استفاده کنید"
+
+#: classes/class-wuppoptions.php:138
+msgid "Sender title"
+msgstr "عنوان ارسال کننده"
+
+#: classes/class-wuppoptions.php:139
+msgid "Email Sender Title When an email is sent to a user."
+msgstr "عنوان ارسال کننده ایمیل های ارسالی به کاربر."
+
+#: classes/class-wuppoptions.php:149 classes/class-wupppages.php:207
+msgid "Login and Register"
+msgstr "ورود و عضویت"
+
+#: classes/class-wuppoptions.php:168
+msgid "Enable registration"
+msgstr "فعال سازی ثبت نام"
+
+#: classes/class-wuppoptions.php:169
+msgid "Enable if you want users to be able to register"
+msgstr "اگر می خواهید کاربران بتوانند ثبت نام کنند ، فعال کنید"
+
+#: classes/class-wuppoptions.php:176
+msgid "Enable password recovery"
+msgstr "امکان بازیابی رمز عبور"
+
+#: classes/class-wuppoptions.php:177
+msgid "Enable if you want users to be able to recover their password"
+msgstr "اگر می خواهید کاربران بتوانند رمز عبور خود را بازیابی کنند ، فعال کنید"
+
+#: classes/class-wuppoptions.php:183
+msgid "Activate acceptance of rules"
+msgstr "فعال سازی قوانین و مقررات"
+
+#: classes/class-wuppoptions.php:184
+msgid "If you want users to confirm the rules before registering"
+msgstr ""
+"اگر میخواهید کاربران قوانین و مقررات را قبل از ثبت نام بپذیرند ، فعال کنید"
+
+#: classes/class-wuppoptions.php:190
+msgid "Select rules and regulations page"
+msgstr "برگه قوانین و مقررات را انتخاب کنید"
+
+#: classes/class-wuppoptions.php:191
+msgid "This page will be linked in the register section."
+msgstr "این برگه در بخش ثبت نام و به بخش قوانین و مقررات لینک خواهد شد."
+
+#: classes/class-wuppoptions.php:208
+msgid "Register settings"
+msgstr "تنظیمات ثبت نام"
+
+#: classes/class-wuppoptions.php:216
+msgid "Default user role in registration"
+msgstr "نقش پیش فرض کاربر هنگام ثبت نام"
+
+#: classes/class-wuppoptions.php:217
+msgid "You can change the default user role when registering."
+msgstr "میتوانید نقش کاربری پیشفرض هنگام ثبت نام را تغییر دهید."
+
+#: classes/class-wuppoptions.php:218
+msgid "Select a user role"
+msgstr "انتخاب نقش کاربری"
+
+#: classes/class-wuppoptions.php:224
+msgid "Send WellCome Email"
+msgstr "ارسال ایمیل خوش آمدگویی"
+
+#: classes/class-wuppoptions.php:225
+msgid "Send welcome email to newly registered users"
+msgstr "ارسال ایمیل خوش آمدگویی به کاربران ثبت نام کننده"
+
+#: classes/class-wuppoptions.php:230
+msgid "Register form type"
+msgstr "نوع فرم ثبت نام"
+
+#: classes/class-wuppoptions.php:237
+msgid "Registration fields"
+msgstr "فیلدهای ثبت نام"
+
+#: classes/class-wuppoptions.php:244
+msgid "Field name"
+msgstr "نام فیلد"
+
+#: classes/class-wuppoptions.php:249
+msgid "Display or hidden"
+msgstr "نمایش یا مخفی"
+
+#: classes/class-wuppoptions.php:254
+msgid "status"
+msgstr "وضعیت"
+
+#: classes/class-wuppoptions.php:256
+msgid "necessary"
+msgstr "الزامی"
+
+#: classes/class-wuppoptions.php:257
+msgid "optional"
+msgstr "اختیاری"
+
+#: classes/class-wuppoptions.php:264
+msgid "Max length"
+msgstr "بیشترین طول"
+
+#: classes/class-wuppoptions.php:269
+msgid "Meta key"
+msgstr "کلید ذخیره سازی"
+
+#: classes/class-wuppoptions.php:277
+msgid "type"
+msgstr "نوع"
+
+#: classes/class-wuppoptions.php:285
+msgid "First name"
+msgstr "نام"
+
+#: classes/class-wuppoptions.php:293
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: classes/class-wuppoptions.php:301
+msgid "User name"
+msgstr "نام کاربری"
+
+#: classes/class-wuppoptions.php:309 classes/class-wupptools.php:194
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: classes/class-wuppoptions.php:317 templates/login/forms/phonenumber.php:6
+#: templates/login/forms/phonenumber_password.php:6
+msgid "Phone number"
+msgstr "شماره همراه"
+
+#: classes/class-wuppoptions.php:325 classes/class-wupptools.php:206
+#: templates/login/forms/custom_password.php:17
+#: templates/login/forms/default.php:7
+#: templates/login/forms/email_password.php:14
+#: templates/login/forms/phonenumber_password.php:14
+#: templates/login/forms/uep_password.php:14
+#: templates/login/forms/username_password.php:14
+msgid "Password"
+msgstr "رمز"
+
+#: classes/class-wuppoptions.php:344
+msgid "Email settings"
+msgstr "تنظیمات ایمیل"
+
+#: classes/class-wuppoptions.php:353
+msgid "Email password recovery"
+msgstr "ایمیل بازیابی رمز عبور"
+
+#: classes/class-wuppoptions.php:354
+msgid "This email will be sent when the user requests a password recovery!"
+msgstr ""
+"این ایمیل زمانی که کاربر درخواست بازیابی رمز عبور می دهد ، ارسال میگردد!"
+
+#: classes/class-wuppoptions.php:356
+msgid ""
+"Hello {display_name} Dear; You have sent a request to change the password. "
+"If this request was not made by you and you do not know about it, ignore "
+"this message. restore link {OTP}"
+msgstr ""
+"سلام {display_name} عزیز؛ شما درخواست تغییر رمز عبور داده اید. اگر این "
+"درخواست توسط شما ارسال نشده است و شما از آن خبر ندارید ، این پیام را نادیده "
+"بگیرید. لینک بازگردانی {OTP}"
+
+#: classes/class-wuppoptions.php:361
+msgid "Account activation email"
+msgstr "ایمیل فعال سازی حساب کاربری"
+
+#: classes/class-wuppoptions.php:362
+msgid "This email is sent when the user requests account verification"
+msgstr ""
+"این ایمیل زمانی که کاربر درخواست تایید حساب کاربری را می دهد ، ارسال میگردد"
+
+#: classes/class-wuppoptions.php:364
+msgid ""
+"Hello {display_name} Dear; To activate your account, use this code {OTP}"
+msgstr ""
+"سلام {display_name} عزیز؛ برای فعال کردن حساب خود ، از این کد استفاده کنید "
+"{OTP}"
+
+#: classes/class-wuppoptions.php:369
+msgid "Welcome email"
+msgstr "ایمیل خوش آمدگویی"
+
+#: classes/class-wuppoptions.php:370
+msgid "This email is sent when the user registers"
+msgstr "این ایمیل زمانی که کاربر ثبت نام میکند ، ارسال میگردد"
+
+#: classes/class-wuppoptions.php:372
+msgid "Hello {display_name} Dear; Welcome to our site"
+msgstr "سلام {display_name} عزیز؛ به سایت ما خوش آمدید از عضویت شما متشکریم"
+
+#: classes/class-wuppoptions.php:384
+msgid "Redirects"
+msgstr "ریدایرکت ها"
+
+#: classes/class-wuppoptions.php:393
+msgid "redirect admin users"
+msgstr "ریدایرکت کاربران ادمین"
+
+#: classes/class-wuppoptions.php:394
+msgid "redirect admin users to wordpress dashboard page after login"
+msgstr "ریدایرکت کاربران ادمین به پیشخوان وردپرس بعد از ورود"
+
+#: classes/class-wuppoptions.php:400
+msgid "Redirect after sign in"
+msgstr "ریدایرکت ورود"
+
+#: classes/class-wuppoptions.php:401
+msgid ""
+"By activating this option, you can redirect users to specific page after "
+"sign in."
+msgstr ""
+"با فعال سازی این گزینه، میتوانید کاربران را بعد از ورود به صفحه خاصی "
+"ریدایرکت کنید."
+
+#: classes/class-wuppoptions.php:407 classes/class-wuppoptions.php:422
+msgid "Redirect link"
+msgstr "لینک ریدایرکت"
+
+#: classes/class-wuppoptions.php:408
+msgid "redirect the user to this page after sign in"
+msgstr "کاربر پس از ورود به این لینک هدایت می شود"
+
+#: classes/class-wuppoptions.php:415
+msgid "Redirect after sign up"
+msgstr "ریدایرکت ثبت نام"
+
+#: classes/class-wuppoptions.php:416
+msgid ""
+"By activating this option, you can redirect users specific page after sign "
+"up."
+msgstr ""
+"با فعال سازی این گزینه، میتوانید کاربران را بعد از ثب نام به صفحه خاصی "
+"ریدایرکت کنید."
+
+#: classes/class-wuppoptions.php:423
+msgid "redirect the user to this page after sign up"
+msgstr "کاربر پس از ورود به این لینک هدایت می شود"
+
+#: classes/class-wuppoptions.php:437
+msgid "Graphics"
+msgstr "گرافیک"
+
+#: classes/class-wuppoptions.php:446
+msgid "General options"
+msgstr "تنظیمات کلی"
+
+#: classes/class-wuppoptions.php:454
+msgid "Favicon"
+msgstr "فاوآیکون"
+
+#: classes/class-wuppoptions.php:466
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: classes/class-wuppoptions.php:474
+msgid "Body Typography"
+msgstr "تنظیمات فونت بدنه"
+
+#: classes/class-wuppoptions.php:475
+msgid ""
+"These settings will be applied to the entire user panel and login screen"
+msgstr "این تنظیمات در صفحه لاگین و پنل کاربری اعمال خواهد شد"
+
+#: classes/class-wuppoptions.php:496
+msgid "Header"
+msgstr "سربرگ"
+
+#: classes/class-wuppoptions.php:515
+msgid "Header background color"
+msgstr "رنگ پس زمینه سربرگ"
+
+#: classes/class-wuppoptions.php:516
+msgid "You can change the background color of the header"
+msgstr "شما میتوانید رنگ بکگراند هدر را تغییر دهید"
+
+#: classes/class-wuppoptions.php:523
+msgid "Header text color"
+msgstr "رنگ متن های سربرگ"
+
+#: classes/class-wuppoptions.php:524
+msgid "You can change the text color of the header"
+msgstr "شما میتوانید رنگ متون موجود در هدر را تغییر دهید"
+
+#: classes/class-wuppoptions.php:531
+msgid "Show logo"
+msgstr "نمایش لوگو"
+
+#: classes/class-wuppoptions.php:532
+msgid "This option activates the logo section"
+msgstr "این گزینه بخش لوگو را فعال می کند"
+
+#: classes/class-wuppoptions.php:538
+msgid "header brand name"
+msgstr "نام برند در سربرگ"
+
+#: classes/class-wuppoptions.php:539
+msgid "User Panel"
+msgstr "پنل کاربری"
+
+#: classes/class-wuppoptions.php:545
+msgid "Brand text color"
+msgstr "رنگ متن اسم برند"
+
+#: classes/class-wuppoptions.php:546
+msgid "color of brand name text in header"
+msgstr "رنگ نام برند شما در سربرگ"
+
+#: classes/class-wuppoptions.php:553
+msgid "Brand text size"
+msgstr "اندازه متن برند"
+
+#: classes/class-wuppoptions.php:561
+msgid "logo"
+msgstr "لوگو"
+
+#: classes/class-wuppoptions.php:562
+msgid "It is better to use the site symbol"
+msgstr "بهتر است از نمادک و یا لوگو تصویری کوچک هویت سایتتان استفاده کنید"
+
+#: classes/class-wuppoptions.php:568
+msgid "Logo link"
+msgstr "لینک لوگو"
+
+#: classes/class-wuppoptions.php:582
+msgid "Content box"
+msgstr "باکس محتوا"
+
+#: classes/class-wuppoptions.php:590
+msgid "The content main background"
+msgstr "پس زمینه اصلی محتوا"
+
+#: classes/class-wuppoptions.php:591 classes/class-wuppoptions.php:752
+msgid "Background with photos, colors and ..."
+msgstr "پس زمینه با عکس، رنگ و ...."
+
+#: classes/class-wuppoptions.php:619
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: classes/class-wuppoptions.php:627
+msgid "Different Sidebar graphics, collapsed or not"
+msgstr "گرافیک های مختلف سایدبار"
+
+#: classes/class-wuppoptions.php:637
+msgid "Sidebar background color"
+msgstr "رنگ پس زمینه منوهای کناری"
+
+#: classes/class-wuppoptions.php:644
+msgid "Menu links background color"
+msgstr "رنگ پس زمینه منوها"
+
+#: classes/class-wuppoptions.php:659
+msgid "Menu links Box shadow color"
+msgstr "رنگ سایه منوها"
+
+#: classes/class-wuppoptions.php:665
+msgid "Menu links text color"
+msgstr "رنگ متن منوها"
+
+#: classes/class-wuppoptions.php:689
+msgid "Footer"
+msgstr "پاورقی"
+
+#: classes/class-wuppoptions.php:697
+msgid "Copyright text"
+msgstr "متن بخش کپی رایت"
+
+#: classes/class-wuppoptions.php:698
+msgid "This text is displayed inside the copyright section of the user panel."
+msgstr "این متن در داخل بخش کپی رایت در فوتر نمایش داده میشود."
+
+#: classes/class-wuppoptions.php:701
+msgid "Copyright © wpuserpanel.com 2022"
+msgstr ""
+
+#: classes/class-wuppoptions.php:715
+msgid "Login and register graphics"
+msgstr "ورود و ثبت نام"
+
+#: classes/class-wuppoptions.php:723
+msgid "Different graphics, login and register form"
+msgstr "گرافیک های مختلف فرم ورود و عضویت"
+
+#: classes/class-wuppoptions.php:733
+msgid "Show back home button"
+msgstr "نمایش دکمه بازگشت به صفحه اصلی"
+
+#: classes/class-wuppoptions.php:740
+msgid "back home button position"
+msgstr "موقعیت دکمه بازگشت به صفحه اصلی"
+
+#: classes/class-wuppoptions.php:742
+msgid "Right"
+msgstr "راست"
+
+#: classes/class-wuppoptions.php:743
+msgid "Left"
+msgstr "چپ"
+
+#: classes/class-wuppoptions.php:751
+msgid "The main background"
+msgstr "پس زمینه اصلی"
+
+#: classes/class-wuppoptions.php:774
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: classes/class-wuppoptions.php:775
+msgid "You can change the background color of the login and register page!"
+msgstr "شما میتوانید رنگ زمینه بخش ورود و عضویت را تغییر دهید!"
+
+#: classes/class-wuppoptions.php:788
+msgid "Color the registration and login buttons"
+msgstr "رنگ دکمه ورود و عضویت"
+
+#: classes/class-wuppoptions.php:798
+msgid "The side text of the login section"
+msgstr "متن کناری بخش ورود"
+
+#: classes/class-wuppoptions.php:799
+msgid "This text is displayed inside the side sction of login form"
+msgstr "این متن در داخل بخش کناری فرم لاگین نمایش داده میشود"
+
+#: classes/class-wuppoptions.php:802
+msgid ""
+"Welcome back! To log in, please enter your account information. If you have "
+"never subscribed to our site, sign up now with a few simple steps."
+msgstr ""
+"مجددأ خوش آمدید!\n"
+"برای ورود، لطفا اطلاعات حساب خود را وارد نمایید. اگر تا به حال در سایت ما "
+"عضو نشده اید همین حالا و با چند قدم ساده عضو شوید."
+
+#: classes/class-wuppoptions.php:808
+msgid "Side text of the register section"
+msgstr "متن کناری بخش ثبت نام"
+
+#: classes/class-wuppoptions.php:809
+msgid "This text is displayed inside the side sction of register form"
+msgstr "این متن در داخل بخش کناری فرم عضویت نمایش داده میشود"
+
+#: classes/class-wuppoptions.php:812
+msgid ""
+"Join us! You can easily register on the site by entering your information "
+"and use the features of your account. If you are already a member of the "
+"site, just log in!"
+msgstr ""
+"با ما همراه شوید!\n"
+"شما میتوانید با وارد کردن اطلاعات خود به راحتی در سایت ثبت نام نمایید و از "
+"امکانات حساب کاربری خود استفاده کنید. اگر قبلا عضو سایت شده اید کافیست وارد "
+"شوید!"
+
+#: classes/class-wuppoptions.php:827
+msgid "Email graphics"
+msgstr "گرافیک ایمیل"
+
+#: classes/class-wuppoptions.php:835
+msgid "Email Logo"
+msgstr "لوگو ایمیل"
+
+#: classes/class-wuppoptions.php:837
+msgid "Upload an image"
+msgstr "آپلود تصویر"
+
+#: classes/class-wuppoptions.php:842
+msgid "Header text"
+msgstr "متن هدر ایمیل"
+
+#: classes/class-wuppoptions.php:843
+msgid "Text for header"
+msgstr "متن هدر"
+
+#: classes/class-wuppoptions.php:848
+msgid "Footer text"
+msgstr "متن فوتر ایمیل"
+
+#: classes/class-wuppoptions.php:849
+msgid "Text for Footer"
+msgstr "متن فوتر"
+
+#: classes/class-wuppoptions.php:854
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: classes/class-wuppoptions.php:856
+msgid "Telegram link"
+msgstr "لینک تلگرام"
+
+#: classes/class-wuppoptions.php:861
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: classes/class-wuppoptions.php:863
+msgid "instagram link"
+msgstr "لینک اینستاگرام"
+
+#: classes/class-wuppoptions.php:877
+msgid "Custom style"
+msgstr "Css سفارشی"
+
+#: classes/class-wuppoptions.php:885
+msgid "Panel custom css"
+msgstr "کلاس سفارشی پنل کاربری"
+
+#: classes/class-wuppoptions.php:886 classes/class-wuppoptions.php:908
+msgid "These styles can be applied to the whole page!"
+msgstr "این استایل ها برروی همه صفحه اعمال میشوند!"
+
+#: classes/class-wuppoptions.php:896
+msgid "Panel custom scripts"
+msgstr "اسکریپت سفارشی پنل کاربری"
+
+#: classes/class-wuppoptions.php:897 classes/class-wuppoptions.php:919
+msgid "These js can be applied to the whole page!"
+msgstr "این اسکریپت ها برروی همه صفحه اعمال میشوند!"
+
+#: classes/class-wuppoptions.php:907
+msgid "Login custom css"
+msgstr "کلاس سفارشی صفحه ورود"
+
+#: classes/class-wuppoptions.php:918
+msgid "Login custom scripts"
+msgstr "اسکریپت سفارشی صفحه ورود"
+
+#: classes/class-wuppoptions.php:936
+msgid "compatibility settings"
+msgstr "سازگاری"
+
+#: classes/class-wuppoptions.php:944
+msgid "Remove panel page styles custom list"
+msgstr "حذف سفارشی استایل ها از بخش پنل کاربری"
+
+#: classes/class-wuppoptions.php:945 classes/class-wuppoptions.php:954
+#: classes/class-wuppoptions.php:963 classes/class-wuppoptions.php:972
+msgid "Separate links or titles with a ,"
+msgstr "موارد را با , (کاما) جدا کنید"
+
+#: classes/class-wuppoptions.php:953
+msgid "Remove panel page scripts custom list"
+msgstr "حذف سفارشی اسکریپت ها از بخش پنل کاربری"
+
+#: classes/class-wuppoptions.php:962
+msgid "Remove login page styles custom list"
+msgstr "حذف سفارشی استایل ها از بخش ورود و عضویت"
+
+#: classes/class-wuppoptions.php:971
+msgid "Remove login page scripts custom list"
+msgstr "حذف سفارشی اسکریپت ها از بخش ورود  و عضویت"
+
+#: classes/class-wuppoptions.php:985
+msgid "Features"
+msgstr "امکانات"
+
+#: classes/class-wuppoptions.php:996
+msgid "Panel features"
+msgstr "امکانات پنل کاربری"
+
+#: classes/class-wuppoptions.php:1004
+msgid "Allow to upload avatars"
+msgstr "اجازه به آپلود آواتار"
+
+#: classes/class-wuppoptions.php:1005
+msgid "Allow users to set a personal symbol image"
+msgstr "به کاربران اجازه دهید یک تصویر نماد شخصی را تنظیم کنند"
+
+#: classes/class-wuppoptions.php:1011
+msgid "Upload restrictions"
+msgstr "محدودیت های آپلود"
+
+#: classes/class-wuppoptions.php:1012
+msgid "In this section, you can specify the maximum size of the uploaded file"
+msgstr "در این بخش میتوانید حداکثر حجم فایل اپلودی اواتار را مشخص کنید"
+
+#: classes/class-wuppoptions.php:1023
+msgid "Restricted user roles"
+msgstr "نقش های کاربری محدود شده"
+
+#: classes/class-wuppoptions.php:1024
+msgid "User roles that can not upload the avatar"
+msgstr "نقش های کاربری که نمی تواند آواتار را بارگذاری کنند"
+
+#: classes/class-wuppoptions.php:1025
+#: incs/admin/users/account-group-item.php:96
+#: incs/admin/users/account-link-item.php:102
+#: incs/admin/users/account-menu-item.php:132
+msgid "Select user role"
+msgstr "انتخاب نقش کاربری"
+
+#: classes/class-wuppoptions.php:1042
+msgid "Dashboard features"
+msgstr "امکانات داشبورد"
+
+#: classes/class-wuppoptions.php:1050
+msgid "Dashboard boxes"
+msgstr "باکس های داشبورد"
+
+#: classes/class-wuppoptions.php:1055
+#: templates/panel/woo/downloads/download-items.php:28
+msgid "Title"
+msgstr "عنوان"
+
+#: classes/class-wuppoptions.php:1060
+msgid "Status"
+msgstr "وضعیت"
+
+#: classes/class-wuppoptions.php:1066
+msgid "Box background"
+msgstr "پس زمینه باکس"
+
+#: classes/class-wuppoptions.php:1082
+msgid "text color"
+msgstr "رنگ متن"
+
+#: classes/class-wuppoptions.php:1088
+msgid "Icon"
+msgstr "آیکون"
+
+#: classes/class-wuppoptions.php:1094
+msgid "Icon color"
+msgstr "رنگ آیکون"
+
+#: classes/class-wuppoptions.php:1100
+msgid "box size"
+msgstr "اندازه باکس"
+
+#: classes/class-wuppoptions.php:1113
+msgid "shortcode"
+msgstr "شورتکد محتوا"
+
+#: classes/class-wuppoptions.php:1114
+msgid "Please use only plugin shortcodes"
+msgstr "لطفا از شورتکد های اختصاصی افزونه استفاده کنید"
+
+#: classes/class-wuppoptions.php:1120
+msgid "box link"
+msgstr "لینک باکس"
+
+#: classes/class-wuppoptions.php:1125
+msgid "Comments registered"
+msgstr "دیدگاه های ثبت شده"
+
+#: classes/class-wuppoptions.php:1138
+msgid "Bought products"
+msgstr "محصولات خریداری شده"
+
+#: classes/class-wuppoptions.php:1151
+msgid "Supports tickets"
+msgstr "تیکت های پشتیبانی"
+
+#: classes/class-wuppoptions.php:1164
+msgid "Total orders price"
+msgstr "کل مبلغ سفارشات"
+
+#: classes/class-wuppoptions.php:1181
+msgid "Display discount code"
+msgstr "نمایش کد تخفیف"
+
+#: classes/class-wuppoptions.php:1182
+msgid "This option activates the discount code section on the dashboard"
+msgstr "این گزینه بخش کد تخفیف در داشبورد را فعال میکند"
+
+#: classes/class-wuppoptions.php:1188
+msgid "Display current date"
+msgstr "نمایش تاریخ و زمان"
+
+#: classes/class-wuppoptions.php:1189
+msgid ""
+"This option activates the current date and user registration date section on "
+"the dashboard"
+msgstr "این گزینه بخش نمایش تاریخ و زمان را در داشبورد را فعال میکند"
+
+#: classes/class-wuppoptions.php:1195
+msgid "Discount text"
+msgstr "متن تخفیف"
+
+#: classes/class-wuppoptions.php:1196
+msgid "Discount text to display on the dashboard"
+msgstr "متن تخفیف برای نمایش در داشبورد"
+
+#: classes/class-wuppoptions.php:1202
+msgid "Discount sub text"
+msgstr "متن دوم تخفیف"
+
+#: classes/class-wuppoptions.php:1203
+msgid "sub text to display under main text"
+msgstr "این متن در پخش پایین تر از عنوان کدتخفیف قرار میگیرد"
+
+#: classes/class-wuppoptions.php:1209
+msgid "Discount code"
+msgstr "کد تخفیف"
+
+#: classes/class-wuppoptions.php:1210
+msgid "Discount code for public release"
+msgstr "کد تخفیف برای انتشار عمومی"
+
+#: classes/class-wuppoptions.php:1216
+msgid "Discount image"
+msgstr "تصویر بخش تخفیف"
+
+#: classes/class-wuppoptions.php:1219
+msgid "Add Image"
+msgstr "اضافه کردن تصویر"
+
+#: classes/class-wuppoptions.php:1220
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: classes/class-wuppoptions.php:1227
+msgid "Display woo notifications"
+msgstr "نمایش اعلان های مربوط به ووکامرس"
+
+#: classes/class-wuppoptions.php:1228
+msgid "This option activates showing woocommerce dashboard notice"
+msgstr ""
+"این گزینه باعث می شود اعلان های مروبط به ووکامرس در منو داشبورد نمایش داده "
+"شود"
+
+#: classes/class-wuppsupportplugins.php:130
+#: classes/class-wuppsupportplugins.php:132
+msgid "Advanced support ticket"
+msgstr "تیکت پشتیبانی پیشرفته"
+
+#: classes/class-wuppsupportplugins.php:139
+#: classes/class-wuppsupportplugins.php:141
+#: classes/class-wuppsupportplugins.php:180
+msgid "My wallet"
+msgstr "کیف پول من"
+
+#: classes/class-wuppsupportplugins.php:148
+#: classes/class-wuppsupportplugins.php:150
+#: classes/class-wuppsupportplugins.php:194
+msgid "My Subscription"
+msgstr "عضویت من"
+
+#: classes/class-wuppsupportplugins.php:166
+msgid "Support ticket"
+msgstr "تیکت پشتیبانی"
+
+#: classes/class-wupptools.php:73
+msgid "January"
+msgstr ""
+
+#: classes/class-wupptools.php:75
+msgid "February"
+msgstr ""
+
+#: classes/class-wupptools.php:77
+msgid "March"
+msgstr ""
+
+#: classes/class-wupptools.php:79
+msgid "April"
+msgstr ""
+
+#: classes/class-wupptools.php:81
+msgid "May"
+msgstr ""
+
+#: classes/class-wupptools.php:83
+msgid "June"
+msgstr ""
+
+#: classes/class-wupptools.php:85
+msgid "July"
+msgstr ""
+
+#: classes/class-wupptools.php:87
+msgid "August"
+msgstr ""
+
+#: classes/class-wupptools.php:89
+msgid "September"
+msgstr ""
+
+#: classes/class-wupptools.php:91
+msgid "October"
+msgstr ""
+
+#: classes/class-wupptools.php:93
+msgid "November"
+msgstr ""
+
+#: classes/class-wupptools.php:95
+msgid "December"
+msgstr ""
+
+#: classes/class-wupptools.php:97
+msgid "Unknown"
+msgstr "نامشخص"
+
+#: classes/class-wupptools.php:121
+msgid "All user roles"
+msgstr "تمام نقش های کاربری"
+
+#: classes/class-wupptools.php:169
+msgid "Default register form"
+msgstr "فرم عضویت پیشفرض هسته اصلی افزونه"
+
+#: classes/class-wupptools.php:198
+msgid "Link"
+msgstr "لینک"
+
+#: classes/class-wupptools.php:202
+msgid "Text"
+msgstr "متن"
+
+#: classes/class-wupptools.php:210
+msgid "Number"
+msgstr "شماره موبایل"
+
+#: classes/class-wupptools.php:214
+msgid "List"
+msgstr "لیست"
+
+#: classes/class-wupptools.php:218
+msgid "Radio button"
+msgstr "دکمه رادیویی"
+
+#: classes/class-wupptools.php:222
+msgid "Check box button"
+msgstr "چک باکس"
+
+#: classes/class-wupptools.php:237
+msgid "Year"
+msgstr "سال"
+
+#: classes/class-wupptools.php:238
+msgid "Month"
+msgstr "ماه"
+
+#: classes/class-wupptools.php:239
+msgid "Day"
+msgstr "روز"
+
+#: classes/class-wupptools.php:240
+msgid "Hour"
+msgstr "ساعت"
+
+#: classes/class-wupptools.php:241
+msgid "Min"
+msgstr "دقیقه"
+
+#: classes/class-wupptools.php:242
+msgid "sec"
+msgstr "ثانیه"
+
+#: classes/class-wupptools.php:243
+msgid "before"
+msgstr "قبل"
+
+#: classes/class-wupptools.php:665
+msgid "Withdrawal"
+msgstr ""
+
+#: classes/class-wuppupload.php:23
+msgid "File size is big"
+msgstr "اندازه فایل انتخابی بزرگتر از حد مجاز است"
+
+#: classes/class-wuppupload.php:34
+msgid "Uploaded success"
+msgstr "با موفقیت بارگذاری شد"
+
+#: classes/class-wuppupload.php:37
+msgid "Try again"
+msgstr "خطا! لطفا مجدد تلاش کنید"
+
+#: classes/class-wuppusers.php:111
+msgid "The previous password is incorrect"
+msgstr "رمز عبور قبلی شما اشتباه است"
+
+#: classes/class-wuppusers.php:114
+msgid "New passwords do not match"
+msgstr "کلمه عبور جدید مطابقت ندارد"
+
+#: classes/class-wuppusers.php:120
+msgid "Accounts updated"
+msgstr "حساب کاربری بروزرسانی شد"
+
+#: classes/class-wuppusers.php:160
+msgid "You are not allowed to access this page."
+msgstr "شما اجازه دسترسی به این صفحه را ندارید"
+
+#: classes/class-wuppwoo.php:80
+msgid "Toman xxxx for yyyy product"
+msgstr "تومان xxxx برای yyyy محصول"
+
+#: classes/class-wuppwoo.php:89
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: classes/class-wuppwoo.php:92
+msgid ""
+"The #xxxx order has been registered in yyyy history and is currently in vvvv "
+"status."
+msgstr ""
+"سفارش #xxxx در تاریخ yyyy ثبت شده است و هم اکنون در وضعیت vvvv قرار دارد."
+
+#: classes/class-wuppwoo.php:202
+msgid "Shipping address"
+msgstr "حمل و نقل"
+
+#: classes/class-wuppwoo.php:203 classes/class-wuppwoo.php:209
+msgid "Billing address"
+msgstr "آدرس قبض"
+
+#: classes/class-wuppwoo.php:233
+msgid "The xxxx field is required."
+msgstr "فیلد xxxx ضروری است."
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:54
+msgid "View details"
+msgstr "مشاهده جزئیات"
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر درباره %s"
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "بررسی بروزرسانی"
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: incs/admin/helper/update/Puc/v4p11/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "هیچ تاریخچه تغییراتی در دسترس نیست"
+
+#: incs/admin/users/account-group-item.php:35
+msgid "Group title"
+msgstr "عنوان گروه"
+
+#: incs/admin/users/account-group-item.php:60
+msgid "Group icon"
+msgstr "آیکون گروه"
+
+#: incs/admin/users/account-group-item.php:77
+msgid "Group custom class"
+msgstr "کلاس سفارشی گروه"
+
+#: incs/admin/users/account-group-item.php:94
+#: incs/admin/users/account-link-item.php:100
+#: incs/admin/users/account-menu-item.php:130
+msgid "Role"
+msgstr "نقش کاربری"
+
+#: incs/admin/users/account-group-item.php:95
+#: incs/admin/users/account-link-item.php:101
+#: incs/admin/users/account-menu-item.php:131
+msgid "User roles that can see this menu if empty all user can"
+msgstr ""
+"نقش های کاربری که می توانند این منو رو ببینند، اگر خالی رها کنید تمامی "
+"کاربران منو را مشاهده می کنند"
+
+#: incs/admin/users/account-group-item.php:116
+msgid "Show default"
+msgstr "نمایش به صورت پیشفرض"
+
+#: incs/admin/users/account-link-item.php:23
+msgid "Link address"
+msgstr "آدرس لینک"
+
+#: incs/admin/users/account-link-item.php:24
+msgid "Use the full link"
+msgstr "از لینک کامل استفاده کنید"
+
+#: incs/admin/users/account-link-item.php:41
+msgid "Link title"
+msgstr "عنوان لینک"
+
+#: incs/admin/users/account-link-item.php:66
+msgid "Link icon"
+msgstr "آیکون لینک"
+
+#: incs/admin/users/account-link-item.php:83
+msgid "Link custom class"
+msgstr "کلاس سفارشی لینک"
+
+#: incs/admin/users/account-link-item.php:122
+msgid "Open in new tab"
+msgstr "باز کردن لینک در تب جدید"
+
+#: incs/admin/users/account-menu-item.php:26
+msgid "Menu link"
+msgstr "لینک منو"
+
+#: incs/admin/users/account-menu-item.php:27
+msgid ""
+"The slug must be in English, without spaces, only letters and numbers and "
+"dash"
+msgstr "نامک باید انگلیسی، بدون فاصله و فقط متشکل از حروف،اعداد و - باشد"
+
+#: incs/admin/users/account-menu-item.php:53
+msgid "Menu main link"
+msgstr "لینک اصلی منو"
+
+#: incs/admin/users/account-menu-item.php:71
+msgid "Menu title"
+msgstr "عنوان منو"
+
+#: incs/admin/users/account-menu-item.php:96
+msgid "Menu icon"
+msgstr "آیکون منو"
+
+#: incs/admin/users/account-menu-item.php:113
+msgid "Menu custom class"
+msgstr "کلاس سفارشی منو"
+
+#: incs/admin/users/account-menu-item.php:151
+msgid "Menu custom content"
+msgstr "محتوای سفارشی منو"
+
+#: incs/admin/users/account-sortable-menus.php:169
+#: incs/admin/users/account-sortable-menus.php:217
+msgid "waiting ..."
+msgstr "منتظر بمانید ..."
+
+#: incs/admin/users/account-sortable-menus.php:198
+msgid "Information saved!"
+msgstr "اطلاعات ذخیره شدند!"
+
+#: incs/admin/users/account-sortable-menus.php:207
+#: incs/admin/users/account-sortable-menus.php:264
+msgid "No internet connection"
+msgstr "خطا در دسترسی به اینترنت"
+
+#: incs/admin/users/users.php:81
+msgid "The group should not be empty"
+msgstr "گروه نباید خالی باشد"
+
+#: incs/loaderbase/admin-notif.php:7
+#, fuzzy, php-format
+#| msgid "To activating your %s please insert you license key"
+msgid "To activating %s, please insert your license key"
+msgstr "برای فعال سازی %s لطفا کد لایسنس خود را وارد نمایید"
+
+#: incs/loaderbase/admin-notif.php:8
+#, fuzzy
+#| msgid "Active plugins"
+msgid "Active License"
+msgstr "فعال کردن افزونه"
+
+#: incs/loaderbase/admin-notif.php:12
+#, php-format
+msgid ""
+"The PHP version of the website is lower than 7.0. Ask your host "
+"administrator to upgrade PHP version to activate %s. "
+msgstr ""
+
+#: incs/loaderbase/admin-notif.php:19
+#, fuzzy, php-format
+#| msgid "There is something wrong with your %s license. please check it."
+msgid "Something is wrong with your %s license. Please check it."
+msgstr "مشکلی در لایسنس  %s شما وجود دارد. لطفا انرا بررسی کنید."
+
+#: incs/loaderbase/admin-notif.php:20
+msgid "Check Now"
+msgstr "بررسی کنید"
+
+#: incs/loaderbase/html.php:4
+#, php-format
+msgid "%s Activation"
+msgstr ""
+
+#: incs/loaderbase/html.php:6
+#, fuzzy
+#| msgid "Account activation email"
+msgid "Your activation key:"
+msgstr "ایمیل فعال سازی حساب کاربری"
+
+#: incs/loaderbase/html.php:9
+#, fuzzy
+#| msgid "New license key"
+msgid "Recheck license"
+msgstr "کد لایسنس جدید"
+
+#: incs/loaderbase/html.php:10
+#, fuzzy
+#| msgid "Remove Image"
+msgid "Remove / Change key"
+msgstr "حذف تصویر"
+
+#: incs/loaderbase/html.php:17
+#, fuzzy
+#| msgid "Account activation email"
+msgid "Enter your activation key:"
+msgstr "ایمیل فعال سازی حساب کاربری"
+
+#: incs/loaderbase/html.php:20
+#, fuzzy
+#| msgid "active"
+msgid "Activate"
+msgstr "فعال"
+
+#: incs/loaderbase/html.php:42
+msgid "No cron jobs found. Your license can not be activated."
+msgstr ""
+
+#: incs/loaderbase/html.php:48
+#, php-format
+msgid ""
+"Number of failed Activation checks is reached (%s). your plugin or theme "
+"will be disabled soon. Please check cron job settings on your WordPress or "
+"host. <a href=\"%s\">cron manual</a>"
+msgstr ""
+
+#: incs/loaderbase/html.php:54
+msgid "Manual:"
+msgstr ""
+
+#: incs/loaderbase/html.php:58
+msgid ""
+"Your key is used on this website, and it is not possible to use on another "
+"website."
+msgstr ""
+
+#: incs/loaderbase/html.php:62
+msgid ""
+"If you want to transfer a license to another domain, click on the \"Remove / "
+"Change key\", after that login to your account of zhaket.com and go to the "
+"download section and click on change domain button. Enter your new domain "
+"name and use the license key on your desired domain."
+msgstr ""
+
+#: incs/loaderbase/html.php:67
+msgid ""
+"To use the product, you should enter the license key, to find your license "
+"key, login to your account of zhaket.com and go to downloads section, after "
+"than select product and copy your license key or click on create license "
+"button and copy your license key."
+msgstr ""
+
+#: incs/loaderbase/html.php:71
+msgid "Each license can be activated only for one website"
+msgstr ""
+
+#: incs/loaderbase/html.php:74
+msgid ""
+"If your license is activated on another domain, first click on the "
+"\"Remove / Change key\" on the old website, then login to your account of "
+"zhaket.com and go to the download section and click on the change domain "
+"button, enter your website domain name and use the license key to activate."
+msgstr ""
+
+#: incs/loaderbase/html.php:82
+#, php-format
+msgid "The %s constant is set to true. WP-Cron spawning is disabled."
+msgstr ""
+
+#: incs/loaderbase/html.php:86
+#, php-format
+msgid "The %s constant is set to true."
+msgstr ""
+
+#: incs/pub/modal_dialog.php:23
+msgid "Are you sure you want to do this?"
+msgstr "آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟"
+
+#: incs/pub/modal_dialog.php:30
+msgid "Done"
+msgstr "انجام شد"
+
+#: incs/pub/modal_dialog.php:31
+msgid "Cancel"
+msgstr "لغو"
+
+#: source.php:3
+msgid "user panel pro"
+msgstr "پنل کاربری پیشرفته"
+
+#: templates/login/__forget.php:4
+msgid "Forget password"
+msgstr "فراموشی رمز عبور"
+
+#: templates/login/__forget.php:22
+msgid "Email or userName"
+msgstr "ایمیل یا نام کاربری"
+
+#: templates/login/__forget.php:36 templates/login/forms/change_password.php:21
+#: templates/login/login.php:306
+msgid "Restore"
+msgstr "بازنشانی"
+
+#: templates/login/__forget.php:43
+msgid "Fill required data to reset your password!"
+msgstr "لطفا اطلاعات مورد نیاز را برای بازنشانی رمز عبور خود وارد نمایید!"
+
+#: templates/login/__forget.php:55
+msgid "Remember your information?"
+msgstr "مشخصات خود را به یاد آوردید؟"
+
+#: templates/login/__register.php:4 templates/login/__side.php:13
+#: templates/login/login.php:218
+msgid "Register"
+msgstr "ثبت نام"
+
+#: templates/login/__register.php:44 templates/panel/self/edit_profile.php:28
+msgid "repeat password"
+msgstr "تکرار رمز عبور"
+
+#: templates/login/__register.php:82
+msgid "rules"
+msgstr "قوانین"
+
+#: templates/login/__register.php:83
+msgid "I agree with the rules"
+msgstr "من با قوانین و مقررات موافقم"
+
+#: templates/login/__register.php:96
+msgid "register"
+msgstr "ثبت نام"
+
+#: templates/login/__register.php:104 templates/login/__side.php:16
+#: templates/login/__sign_in.php:5 templates/login/__sign_in.php:36
+#: templates/login/forms/default.php:61
+msgid "Login"
+msgstr "ورود"
+
+#: templates/login/__register.php:109
+msgid ""
+"To complete the registration, you must enter the verification code sent to "
+"you!"
+msgstr "برای تکمیل ثبت نام ، باید کد تأیید ارسال شده را وارد کنید!"
+
+#: templates/login/__sign_in.php:45
+msgid "To enter, enter the verification code sent in this section!"
+msgstr "برای ورود، کدتایید ارسال شده را وارد کنید!"
+
+#: templates/login/__sign_in.php:57
+msgid "Forgot your login information?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+#: templates/login/__sign_in.php:62
+msgid "Create account"
+msgstr "یک حساب کاربری بسازید"
+
+#: templates/login/forms/auth_code.php:18
+msgid "Auth code"
+msgstr "کد تایید"
+
+#: templates/login/forms/auth_code.php:41 templates/login/login.php:375
+msgid "authentication"
+msgstr "تایید حساب"
+
+#: templates/login/forms/change_password.php:12
+msgid "Waiting ..."
+msgstr "منتظر بمانید ..."
+
+#: templates/login/forms/change_password.php:33 templates/login/login.php:397
+#: templates/login/login.php:458
+msgid "No internet connection!"
+msgstr "خطا در دسترسی به اینترنت!"
+
+#: templates/login/forms/change_password.php:50
+msgid "New password"
+msgstr "رمز عبور جدید"
+
+#: templates/login/forms/change_password.php:60
+msgid "Repeat new password"
+msgstr "تکرار رمز عبور جدید"
+
+#: templates/login/forms/change_password.php:69
+msgid "change"
+msgstr "تغییر"
+
+#: templates/login/forms/custom_password.php:28
+#: templates/login/forms/default.php:18
+#: templates/login/forms/email_password.php:25
+#: templates/login/forms/phonenumber_password.php:25
+#: templates/login/forms/uep_password.php:25
+#: templates/login/forms/username_password.php:25
+msgid "remember me"
+msgstr "مرا بخاطر بسپار"
+
+#: templates/login/forms/default.php:3
+msgid "Email or username"
+msgstr "ایمیل یا نام کاربری"
+
+#: templates/login/forms/default.php:110
+msgid "Complete form"
+msgstr "فرم را تکمیل کنید"
+
+#: templates/login/forms/email.php:6 templates/login/forms/email_password.php:6
+msgid "Email"
+msgstr "ایمیل"
+
+#: templates/login/forms/uep_password.php:6
+msgid "Email, phoneNumber or userName"
+msgstr "ایمیل یا نام کاربری یا شماره همراه"
+
+#: templates/login/forms/username_password.php:6
+msgid "Username"
+msgstr "نام کاربری"
+
+#: templates/login/login.php:129
+msgid "Account not found, register if you do not have an account"
+msgstr ""
+
+#: templates/login/login.php:129
+msgid "sign up"
+msgstr ""
+
+#: templates/login/login.php:154 templates/login/login.php:403
+msgid "Complete form!"
+msgstr "فرم را تکمیل کنید!"
+
+#: templates/login/login.php:177
+msgid "Fill in the star fields"
+msgstr "فیلد های ستاره دار را تکمیل کنید"
+
+#: templates/login/login.php:191
+msgid "Passwords is wrong"
+msgstr "رمز عبور اشتباه است"
+
+#: templates/login/login.php:260
+msgid "accept the rules"
+msgstr "پذیرش قوانین"
+
+#: templates/login/login.php:337
+msgid "Complete form inputs"
+msgstr "فرم را تکمیل کنید"
+
+#: templates/login/login.php:412 templates/login/login.php:418
+#: templates/login/login.php:451
+msgid "Send code again"
+msgstr "ارسال مجدد کد"
+
+#: templates/panel/content-group.php:10 templates/panel/content.php:16
+msgid "panel"
+msgstr "پنل کاربری"
+
+#: templates/panel/edd/billings/billings.php:6
+msgid "purchase history"
+msgstr "سوابق خرید"
+
+#: templates/panel/edd/billings/billings.php:19
+msgid "ID"
+msgstr "ایدی"
+
+#: templates/panel/edd/billings/billings.php:20
+#: templates/panel/edd/billings/details-content.php:62
+msgid "Date"
+msgstr "تاریخ"
+
+#: templates/panel/edd/billings/billings.php:21
+msgid "Amount"
+msgstr "مقدار"
+
+#: templates/panel/edd/billings/billings.php:22
+msgid "Details"
+msgstr "جزئیات"
+
+#: templates/panel/edd/billings/billings.php:40
+msgid "Complete Purchase"
+msgstr "تکمیل خرید"
+
+#: templates/panel/edd/billings/billings.php:45
+msgid "View Details and Downloads"
+msgstr "دیدن جزئیات و دانلود"
+
+#: templates/panel/edd/billings/billings.php:65
+msgid "You have not made any purchases"
+msgstr "تا به حال خریدی انجام نداده اید"
+
+#: templates/panel/edd/billings/details-content.php:9
+msgid "The specified receipt ID appears to be invalid"
+msgstr "به نظر می رسد شناسه رسید نامعتبر است"
+
+#: templates/panel/edd/billings/details-content.php:32
+msgid "Payment"
+msgstr "پرداخت"
+
+#: templates/panel/edd/billings/details-content.php:42
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: templates/panel/edd/billings/details-content.php:49
+msgid "Payment Key"
+msgstr "کلید پرداخت"
+
+#: templates/panel/edd/billings/details-content.php:56
+msgid "Payment Method"
+msgstr "روش های پرداخت"
+
+#: templates/panel/edd/billings/details-content.php:69
+msgid "Fees"
+msgstr "هزینه"
+
+#: templates/panel/edd/billings/details-content.php:86
+msgid "Discount(s)"
+msgstr "تخفیف(ها)"
+
+#: templates/panel/edd/billings/details-content.php:93
+msgid "Tax"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:101
+#, fuzzy
+msgid "Subtotal"
+msgstr "زیر مجموعه"
+
+#: templates/panel/edd/billings/details-content.php:108
+msgid "Total Price"
+msgstr "مبلغ کل"
+
+#: templates/panel/edd/billings/details-content.php:128
+msgid "Products"
+msgstr "محصولات"
+
+#: templates/panel/edd/billings/details-content.php:134
+msgid "Name"
+msgstr "نام"
+
+#: templates/panel/edd/billings/details-content.php:136
+msgid "SKU"
+msgstr ""
+
+#: templates/panel/edd/billings/details-content.php:139
+#, fuzzy
+msgid "Quantity"
+msgstr "مقدار"
+
+#: templates/panel/edd/billings/details-content.php:141
+msgid "Price"
+msgstr "قیمت"
+
+#: templates/panel/edd/billings/details-content.php:211
+msgid "No downloadable files found for this bundled item."
+msgstr "هیچ پرونده قابل بارگیری برای این مورد یافت نشد."
+
+#: templates/panel/edd/billings/details-content.php:220
+#: templates/panel/edd/downloads/downloads.php:93
+msgid "No downloadable files found."
+msgstr "هیچ پرونده قابل بارگیری یافت نشد."
+
+#: templates/panel/edd/billings/details.php:5
+msgid "Bought details"
+msgstr "جزئیات خرید"
+
+#: templates/panel/edd/downloads/downloads.php:5
+#, fuzzy
+#| msgid "Your profile has been edited successfully."
+msgid "Your account has been successfully verified!"
+msgstr "نمایه شما با موفقیت ویرایش شد."
+
+#: templates/panel/edd/downloads/downloads.php:37
+msgid "Download Name"
+msgstr "نام دانلود"
+
+#: templates/panel/edd/downloads/downloads.php:39
+msgid "Files"
+msgstr "فایل ها"
+
+#. translators: the order item's status.
+#: templates/panel/edd/downloads/downloads.php:101
+#, fuzzy, php-format
+#| msgid "Status"
+msgid "Status: %s"
+msgstr "وضعیت"
+
+#: templates/panel/edd/downloads/downloads.php:141
+msgid "You have not purchased any downloads"
+msgstr "شما هیچ محصول قابل دانلودی خریداری نکرده اید"
+
+#: templates/panel/edd/profile/profile-edit.php:18
+#, fuzzy
+msgid "Saved cart"
+msgstr "سبد خرید"
+
+#: templates/panel/edd/profile/profile-edit.php:19
+#, php-format
+msgid "You have a saved cart, <a href=\"%s\">click here</a> to restore it."
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:25
+msgid "Success"
+msgstr "موفق"
+
+#: templates/panel/edd/profile/profile-edit.php:26
+msgid "Your profile has been edited successfully."
+msgstr "نمایه شما با موفقیت ویرایش شد."
+
+#: templates/panel/edd/profile/profile-edit.php:41
+msgid "Change your Name"
+msgstr "تغییر نام"
+
+#: templates/panel/edd/profile/profile-edit.php:46
+msgid "First Name"
+msgstr "نام"
+
+#: templates/panel/edd/profile/profile-edit.php:53
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: templates/panel/edd/profile/profile-edit.php:61
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#: templates/panel/edd/profile/profile-edit.php:87
+msgid "Primary Email Address"
+msgstr "آدرس ایمیل اصلی"
+
+#: templates/panel/edd/profile/profile-edit.php:124
+msgid "Additional Email Addresses"
+msgstr "آدرسهای ایمیل اضافی"
+
+#: templates/panel/edd/profile/profile-edit.php:146
+msgid "Remove"
+msgstr "حذف"
+
+#: templates/panel/edd/profile/profile-edit.php:163
+msgid "Change your Billing Address"
+msgstr "آدرس صورتحساب خود را تغییر دهید"
+
+#: templates/panel/edd/profile/profile-edit.php:168
+msgid "Line 1"
+msgstr "ادرس 1"
+
+#: templates/panel/edd/profile/profile-edit.php:175
+msgid "Line 2"
+msgstr "ادرس 2"
+
+#: templates/panel/edd/profile/profile-edit.php:182
+msgid "City"
+msgstr "شهر"
+
+#: templates/panel/edd/profile/profile-edit.php:189
+msgid "Zip / Postal Code"
+msgstr "Zip / Postal Code"
+
+#: templates/panel/edd/profile/profile-edit.php:196
+msgid "Country"
+msgstr "کشور"
+
+#: templates/panel/edd/profile/profile-edit.php:208
+msgid "State / Province"
+msgstr ""
+
+#: templates/panel/edd/profile/profile-edit.php:236
+msgid "Change your Password"
+msgstr "رمزعبور خود را تغییر دهید"
+
+#: templates/panel/edd/profile/profile-edit.php:241
+msgid "New Password"
+msgstr "رمزعبور جدید"
+
+#: templates/panel/edd/profile/profile-edit.php:249
+msgid "Re-enter Password"
+msgstr "تکرار رمز عبور"
+
+#: templates/panel/edd/profile/profile-edit.php:274
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: templates/panel/footer.php:7
+msgid "Powered by UP user panel"
+msgstr "قدرت گرفته از پنل کاربری آپ"
+
+#: templates/panel/header.php:10
+msgid "go home page"
+msgstr "رفتن به صفحه نخست"
+
+#: templates/panel/header.php:27
+msgid "Inbox"
+msgstr "پیام ها"
+
+#: templates/panel/header.php:31
+msgid "Logout"
+msgstr "خروج"
+
+#: templates/panel/self/dashboard.php:4
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: templates/panel/self/dashboard.php:100
+#, php-format
+msgid "member since %s"
+msgstr "از %s همراه ما هستید"
+
+#: templates/panel/self/edit_profile.php:60
+msgid "update"
+msgstr "بروزرسانی"
+
+#: templates/panel/woo/addresses/addresses-content.php:14
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: templates/panel/woo/addresses/addresses-content.php:14
+msgid "Add"
+msgstr "افزودن"
+
+#: templates/panel/woo/addresses/addresses-content.php:24
+msgid "You have not yet entered the address for this section!"
+msgstr "شما هنوز آدرس در این بخش را وارد نکرده اید!"
+
+#: templates/panel/woo/addresses/edit-billing.php:11
+#: templates/panel/woo/addresses/edit-shipping.php:14
+#: templates/panel/woo/orders/order-visit.php:3
+msgid "Back"
+msgstr "برگشت"
+
+#: templates/panel/woo/downloads/download-items.php:29
+msgid "Remaining downloads"
+msgstr "دانلود های باقی مانده"
+
+#: templates/panel/woo/downloads/download-items.php:30
+msgid "Expire"
+msgstr "تاریخ انقضا"
+
+#: templates/panel/woo/downloads/download-items.php:31
+msgid "Operation"
+msgstr "عملیات"
+
+#: templates/panel/woo/downloads/download-items.php:41
+msgid "download"
+msgstr "دانلود"
+
+#: templates/panel/woo/downloads/downloads.php:14
+msgid "No download founded!"
+msgstr "هیچ فایل قابل دانلودی یافت نشد!"
+
+#: templates/panel/woo/downloads/downloads.php:15
+#: templates/panel/woo/orders/orders-content.php:24
+msgid "Visit products"
+msgstr "مشاهده محصولات"
+
+#: templates/panel/woo/orders/orders-content.php:23
+msgid "No order has been made yet."
+msgstr ""
+
+#: templates/panel/woo/payment-methods/payment-content.php:3
+msgid "Payment methods"
+msgstr "روش های پرداخت"
+
+#: templates/panel/wpas/tickets/tickets.php:23
+msgid "Tickets list"
+msgstr "لیست تیکت ها"
+
+#: templates/panel/wpas/tickets/tickets.php:81
+#, php-format
+msgid ""
+"You haven't submitted a ticket yet. <a href=\"%s\">Click here to submit your "
+"first ticket</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "User Panel Pro"
+msgstr "پنل کاربری پیشرفته"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webiha.com"
+msgstr "https://webiha.com"
+
+#. Description of the plugin/theme
+msgid ""
+"User Panel Pro is The most powerful and best plugin for creating user panel "
+"in WordPress; Synchronized with Woocommers and Easy digital downloads With "
+"unique facilities."
+msgstr ""
+"افزونه پنل کاربری پیشرفته قوی ترین و برترین پلاگین ساخت حساب کاربری برای "
+"وردپرس است. این افزونه با پشتیبانی از ووکامرس و ایزی دیجیتال دانلود و به "
+"همراه امکانات بی نظیر امکان خلق یک پنل کاربری گرافیکی فوق العاده را مهیا می "
+"سازد. {نوشته شده توسط تیم وبیها}"
+
+#. Author of the plugin/theme
+msgid "Webiha"
+msgstr "وبیها(webiha)"
+
+#~ msgid "Login was successful"
+#~ msgstr "ورود با موفقیت انجام شد"
+
+#~ msgid "Register version"
+#~ msgstr "ثبت نسخه"
+
+#~ msgid ""
+#~ "You already register your license key. to re validate it, you can use "
+#~ "this form."
+#~ msgstr ""
+#~ "شما قبلا لایسنس خود را ثبت کرده اید، برای بررسی مجدد اعتبار میتوانید از "
+#~ "این فرم استفاده کنید."
+
+#~ msgid "Your current license:"
+#~ msgstr "لایسنس فعلی شما :"
+
+#~ msgid "Revalidate"
+#~ msgstr "اعتبار سنجی مجدد"
+
+#~ msgid "Delete and submit another license"
+#~ msgstr "حذف کردن و ثبت لایسنس جدید"
+
+#~ msgid "Please wait..."
+#~ msgstr "لطفا منتظر بمانید..."
+
+#~ msgid "Please activate plugin with your license key to all features work."
+#~ msgstr ""
+#~ "لطفا افزونه را با کد لایسنس خود فعال کنید تا همه امکانات ان در دسترس باشد."
+
+#~ msgid "License key"
+#~ msgstr "کد لایسنس"
+
+#~ msgid "Something goes wrong please try again."
+#~ msgstr "مشکلی رخ داده است لطفا مجددا تلاش کنید."
+
+#~ msgid "Please insert your license code"
+#~ msgstr "لطفا کد لایسنس خود را وارد نمایید"
+
+#~ msgid "License code is valid."
+#~ msgstr "کد لایسنس معتبر است."
+
+#~ msgid "Thanks! Your license activated successfully."
+#~ msgstr "باتشکر، نسخه شما با موفقیت فعال شد."
+
+#~ msgid "Register Now"
+#~ msgstr "ثبت لایسنس"
+
+#~ msgid "Enter the verification code to change the password!"
+#~ msgstr "برای تغییر رمز عبور ، کد تأیید را وارد کنید!"
+
+#~ msgid "Payment status is %s"
+#~ msgstr "وضعیت پرداخت هست %s"
+
+#~ msgid "This number is already registered in the details of an order!"
+#~ msgstr "این شماره قبلا در جزئیات یک سفارش ثبت شده است"
+
+#~ msgid "Access Denied"
+#~ msgstr "محدود شده"
+
+#~ msgid "Base plugin update"
+#~ msgstr "بروزرسانی افزونه مادر"
+
+#~ msgid "Edit address"
+#~ msgstr "ویرایش آدرس"
+
+#~ msgid "Order details"
+#~ msgstr "جزئیات سفارش"
+
+#, fuzzy
+#~| msgid "Error in saving settings"
+#~ msgid "Error while saving the changes."
+#~ msgstr "خطا در ذخیره سازی تنظیمات"
+
+#, fuzzy
+#~| msgid "Settings restored!"
+#~ msgid "Settings successfully imported."
+#~ msgstr "همه پیشفرض ها بازگردانی شدند!"
+
+#, fuzzy
+#~| msgid "Settings restored!"
+#~ msgid "Default settings restored."
+#~ msgstr "همه پیشفرض ها بازگردانی شدند!"
+
+#, fuzzy
+#~| msgid "Settings saved!"
+#~ msgid "Settings saved."
+#~ msgstr "تنظیمات ذخیره شدند!"
+
+#, fuzzy
+#~| msgid "You have not made any purchases"
+#~ msgid "You have unsaved changes, save your changes!"
+#~ msgstr "تا به حال خریدی انجام نداده اید"
+
+#, fuzzy
+#~| msgid "Restore all settings"
+#~ msgid "show all settings"
+#~ msgstr "بازنشانی تمامی تنظیمات"
+
+#~ msgid "Saving..."
+#~ msgstr "در حال ذخیره سازی ..."
+
+#, fuzzy
+#~| msgid "Are you sure you want to do this?"
+#~ msgid "Are you sure to reset this section options?"
+#~ msgstr "آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟"
+
+#, fuzzy
+#~| msgid "Are you sure you want to do this?"
+#~ msgid "Are you sure you want to reset all settings to default values?"
+#~ msgstr "آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟"
+
+#, fuzzy
+#~| msgid "Role is available!"
+#~ msgid "No data available."
+#~ msgstr "نقش کاربری وجود دارد!"
+
+#, fuzzy
+#~| msgid "update"
+#~ msgid "update post"
+#~ msgstr "بروزرسانی"
+
+#~ msgid "Are you sure?"
+#~ msgstr "آیا اطمینان دارید؟"
+
+#, fuzzy
+#~| msgid "No item founded"
+#~ msgid "No results found."
+#~ msgstr "هیچ موردی یافت نشد"
+
+#, fuzzy
+#~| msgid "Account not founded!"
+#~ msgid "Field not found!"
+#~ msgstr "حساب کاربری یافت نشد!"
+
+#, fuzzy
+#~| msgid "Add menu"
+#~ msgid "Add New"
+#~ msgstr "اضافه کردن منو"
+
+#, fuzzy
+#~| msgid "Top"
+#~ msgid "To"
+#~ msgstr "بالا"
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Direction"
+#~ msgstr "توضیحات"
+
+#, fuzzy
+#~| msgid "authentication"
+#~ msgid "Gradient Direction"
+#~ msgstr "تایید حساب"
+
+#, fuzzy
+#~| msgid "background location"
+#~ msgid "Background Position"
+#~ msgstr "مکان پس زمینه"
+
+#, fuzzy
+#~| msgid "Left"
+#~ msgid "Left Top"
+#~ msgstr "چپ"
+
+#, fuzzy
+#~| msgid "Bottom"
+#~ msgid "Left Bottom"
+#~ msgstr "پایین"
+
+#, fuzzy
+#~| msgid "Bottom"
+#~ msgid "Center Bottom"
+#~ msgstr "پایین"
+
+#, fuzzy
+#~| msgid "Right"
+#~ msgid "Right Top"
+#~ msgstr "راست"
+
+#, fuzzy
+#~| msgid "Bottom"
+#~ msgid "Right Bottom"
+#~ msgstr "پایین"
+
+#, fuzzy
+#~| msgid "background repeat"
+#~ msgid "Background Repeat"
+#~ msgstr "تکرار پس زمینه"
+
+#, fuzzy
+#~| msgid "background attach"
+#~ msgid "Background Attachment"
+#~ msgstr "پیوست پس زمینه"
+
+#, fuzzy
+#~| msgid "background size"
+#~ msgid "Background Size"
+#~ msgstr "اندازه پس زمینه"
+
+#, fuzzy
+#~ msgid "Contain"
+#~ msgstr "صفحه ورود و عضویت پنل کاربری"
+
+#, fuzzy
+#~| msgid "Background color"
+#~ msgid "Background Origin"
+#~ msgstr "رنگ پس زمینه"
+
+#, fuzzy
+#~| msgid "Bought orders box"
+#~ msgid "Border Box"
+#~ msgstr "باکس تعداد خرید ها"
+
+#, fuzzy
+#~| msgid "Background color"
+#~ msgid "Background Clip"
+#~ msgstr "رنگ پس زمینه"
+
+#, fuzzy
+#~| msgid "Background color"
+#~ msgid "Background Blend Mode"
+#~ msgstr "رنگ پس زمینه"
+
+#, fuzzy
+#~| msgid "Right"
+#~ msgid "Lighten"
+#~ msgstr "راست"
+
+#, fuzzy
+#~| msgid "Operation"
+#~ msgid "Saturation"
+#~ msgstr "عملیات"
+
+#, fuzzy
+#~| msgid "importing"
+#~ msgid "Import"
+#~ msgstr "درون ریزی"
+
+#, fuzzy
+#~| msgid "Download"
+#~ msgid "Export & Download"
+#~ msgstr "دانلود"
+
+#, fuzzy
+#~| msgid "Top"
+#~ msgid "top"
+#~ msgstr "بالا"
+
+#, fuzzy
+#~| msgid "Right"
+#~ msgid "right"
+#~ msgstr "راست"
+
+#, fuzzy
+#~| msgid "Bottom"
+#~ msgid "bottom"
+#~ msgstr "پایین"
+
+#, fuzzy
+#~| msgid "Dashboard"
+#~ msgid "Dashed"
+#~ msgstr "داشبورد"
+
+#, fuzzy
+#~| msgid "Height"
+#~ msgid "height"
+#~ msgstr "ارتفاع"
+
+#, fuzzy
+#~| msgid "Add slider"
+#~ msgid "Add Gallery"
+#~ msgstr "اضافه کردن اسلایدر"
+
+#, fuzzy
+#~| msgid "Edit role"
+#~ msgid "Edit Gallery"
+#~ msgstr "ویرایش نقش کاربری"
+
+#, fuzzy
+#~| msgid "Are you sure you want to do this?"
+#~ msgid "Are you sure to delete this item?"
+#~ msgstr "آیا مطمئن هستید که می خواهید این مورد را حذف کنید؟"
+
+#, fuzzy
+#~| msgid "Add menu"
+#~ msgid "Add Icon"
+#~ msgstr "اضافه کردن منو"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgid "Remove Icon"
+#~ msgstr "حذف"
+
+#, fuzzy
+#~| msgid "Add link"
+#~ msgid "Add Link"
+#~ msgstr "اضافه کردن لینک"
+
+#, fuzzy
+#~| msgid "Edit plugins"
+#~ msgid "Edit Link"
+#~ msgstr "ویرایش افزونه ها"
+
+#, fuzzy
+#~| msgid "Remove"
+#~ msgid "Remove Link"
+#~ msgstr "حذف"
+
+#, fuzzy
+#~| msgid "Visit"
+#~ msgid "Visited"
+#~ msgstr "نمایش"
+
+#, fuzzy
+#~| msgid "Upload files"
+#~ msgid "Upload"
+#~ msgstr "آپلود فایل"
+
+#, fuzzy
+#~| msgid "Font family"
+#~ msgid "Font Family"
+#~ msgstr "خانواده فونت"
+
+#, fuzzy
+#~| msgid "Select an item"
+#~ msgid "Select a font"
+#~ msgstr "یک مورد را انتخاب کنید"
+
+#, fuzzy
+#~| msgid "Font family"
+#~ msgid "Backup Font Family"
+#~ msgstr "خانواده فونت"
+
+#, fuzzy
+#~| msgid "Default menus"
+#~ msgid "Default"
+#~ msgstr "منوهای پیشفرض"
+
+#, fuzzy
+#~| msgid "Font size"
+#~ msgid "Font Style"
+#~ msgstr "اندازه فونت"
+
+#, fuzzy
+#~| msgid "Text align"
+#~ msgid "Text Align"
+#~ msgstr "مرتب سازی متن"
+
+#, fuzzy
+#~| msgid "Font family"
+#~ msgid "Font Variant"
+#~ msgstr "خانواده فونت"
+
+#, fuzzy
+#~| msgid "Text align"
+#~ msgid "Text Decoration"
+#~ msgstr "مرتب سازی متن"
+
+#, fuzzy
+#~| msgid "Line height"
+#~ msgid "Line-through"
+#~ msgstr "ارتفاع خط"
+
+#, fuzzy
+#~| msgid "Font size"
+#~ msgid "Font Size"
+#~ msgstr "اندازه فونت"
+
+#, fuzzy
+#~| msgid "Line height"
+#~ msgid "Line Height"
+#~ msgstr "ارتفاع خط"
+
+#, fuzzy
+#~| msgid "Font color"
+#~ msgid "Font Color"
+#~ msgstr "رنگ فونت"
+
+#, fuzzy
+#~| msgid "Custom css"
+#~ msgid "Custom Style"
+#~ msgstr "Css سفارشی"
+
+#, fuzzy
+#~| msgid "Custom css"
+#~ msgid "Custom Web Fonts"
+#~ msgstr "Css سفارشی"
+
+#, fuzzy
+#~| msgid "You do not have permission to edit this role"
+#~ msgid "Error: You do not have permission to do that."
+#~ msgstr "شما اجازه ویرایش این نقش کاربری را ندارید"
+
+#, fuzzy
+#~| msgid "The xxxx field is required."
+#~ msgid "This field is required."
+#~ msgstr "فیلد xxxx ضروری است."
+
+#, fuzzy
+#~| msgid "comment"
+#~ msgid "User comments"
+#~ msgstr "کامنت"
+
+#, fuzzy
+#~| msgid "User panel menus"
+#~ msgid "User purchase number"
+#~ msgstr "منوهای پنل کاربری"
+
+#, fuzzy
+#~| msgid "Total orders box"
+#~ msgid "User total order amount"
+#~ msgstr "باکس کل مبلغ سفارشات"
+
+#~ msgid "You can change the background color of the header counter button!"
+#~ msgstr "شما میتوانید رنگ زمینه شمارنده های هدر را تغییر دهید!"
+
+#~ msgid "Display support button"
+#~ msgstr "نمایش دکمه پشتیبانی"
+
+#~ msgid "This option activates the support button on header"
+#~ msgstr "این متن در داخل دکمه پشتیبانی در هدر نمایش داده می شود"
+
+#~ msgid "Support button background color"
+#~ msgstr "رنگ پس زمینه دکمه پشتیبانی"
+
+#~ msgid "You can change the background color of the support button!"
+#~ msgstr "شما میتوانید رنگ زمینه بخش دکمه پشتیبانی در سربرگ را تغییر دهید!"
+
+#~ msgid "Start color"
+#~ msgstr "رنگ آغازین"
+
+#~ msgid "End color"
+#~ msgstr "رنگ پایانی"
+
+#~ msgid "Support button text"
+#~ msgstr "متن دکمه پشتیبانی"
+
+#~ msgid "Support text"
+#~ msgstr "متن پشتیبانی"
+
+#~ msgid "Display as support content"
+#~ msgstr "نمایش به عنوان محتوای پشتیبانی"
+
+#~ msgid "Panel header menus"
+#~ msgstr "منو هدر پنل کاربری"
+
+#~ msgid "Select a menu to display at the top of the user panel..."
+#~ msgstr "یک منو را انتخاب کنید تا در بخش سربرگ پنل کاربری نمایش داده شود..."
+
+#~ msgid "Select a menu"
+#~ msgstr "انتخاب فهرست"
+
+#~ msgid "User meta icons color"
+#~ msgstr "رنگ ایکون های باکس اطلاعات کاربر"
+
+#~ msgid "Display social media part"
+#~ msgstr "نمایش بخش شبکه های اجتماعی"
+
+#~ msgid "This option activates the socila section on the footer"
+#~ msgstr "این گزینه بخش شبکه های اجتماعی را در فوتر فعال میکند"
+
+#~ msgid "Facebook"
+#~ msgstr "فیس بوک"
+
+#~ msgid "facebook link"
+#~ msgstr "لینک فیسبوک"
+
+#~ msgid "Whatsapp"
+#~ msgstr "واتس آپ"
+
+#~ msgid "whatsapp link"
+#~ msgstr "لینک واتس آپ"
+
+#~ msgid "Twitter"
+#~ msgstr "توئیتر"
+
+#~ msgid "twitter link"
+#~ msgstr "لینک توئیتر"
+
+#~ msgid "Display notifications part"
+#~ msgstr "نمایش بخش اخرین اعلان ها"
+
+#~ msgid "pages setting"
+#~ msgstr "تنظیمات برگه ها"
+
+#~ msgid "Woo menus"
+#~ msgstr "منوهای ووکامرس"
+
+#~ msgid "Typography settings"
+#~ msgstr "تایپوگرافی"
+
+#~ msgid "Panel graphics"
+#~ msgstr "پنل کاربری"
+
+#~ msgid "dashboard graphics"
+#~ msgstr "داشبورد"
+
+#~ msgid "User role"
+#~ msgstr "نقش کاربری"
+
+#~ msgid "Users roles"
+#~ msgstr "نقش های کاربری"
+
+#~ msgid "User roles"
+#~ msgstr "نقش کاربری"
+
+#~ msgid "Change site theme"
+#~ msgstr "تغییر قالب سایت"
+
+#~ msgid "Edit themes"
+#~ msgstr "ویرایش قالب"
+
+#~ msgid "Edit users"
+#~ msgstr "ویرایش کاربران"
+
+#~ msgid "Edit files"
+#~ msgstr "ویرایش فایل ها"
+
+#~ msgid "Manage options"
+#~ msgstr "مدیریت تنظیمات"
+
+#~ msgid "Manage categories"
+#~ msgstr "مدیریت دسته بندی ها"
+
+#~ msgid "Manage links"
+#~ msgstr "مدیریت لینک ها"
+
+#~ msgid "Edit posts"
+#~ msgstr "ویرایش پست ها"
+
+#~ msgid "Edit other person posts"
+#~ msgstr "ویرایش پست دیگران"
+
+#~ msgid "Edit published posts"
+#~ msgstr "ویرایش نوشته های منتشر شده"
+
+#~ msgid "Publish posts"
+#~ msgstr "انتشار نوشته"
+
+#~ msgid "Edit pages"
+#~ msgstr "ویرایش صفحات"
+
+#~ msgid "Read posts"
+#~ msgstr "مشاهده نوشته ها"
+
+#~ msgid "Publish pages"
+#~ msgstr "انتشار برگه"
+
+#~ msgid "Delete other person pages"
+#~ msgstr "حذف برگه های دیگران"
+
+#~ msgid "Delete published pages"
+#~ msgstr "حذف برگه های منتشر شده"
+
+#~ msgid "Delete posts"
+#~ msgstr "حذف نوشته ها"
+
+#~ msgid "Delete private posts"
+#~ msgstr "حذف نوشته های خصوصی"
+
+#~ msgid "Delete other person posts"
+#~ msgstr "حذف نوشته های دیگران"
+
+#~ msgid "Delete published posts"
+#~ msgstr "حذف نوشته های منتشر شده"
+
+#~ msgid "Edit private posts"
+#~ msgstr "ویرایش نوشته های خصوصی"
+
+#~ msgid "Read private posts"
+#~ msgstr "مشاهده نوشته های خصوصی"
+
+#~ msgid "Delete private pages"
+#~ msgstr "حذف برگه های خصوصی"
+
+#~ msgid "Edit private pages"
+#~ msgstr "ویرایش برگه های خصوصی"
+
+#~ msgid "Read private pages"
+#~ msgstr "مشاهده برگه های خصوصی"
+
+#~ msgid "Delete users"
+#~ msgstr "حذف کاربران"
+
+#~ msgid "Create users"
+#~ msgstr "ایجاد کاربر"
+
+#~ msgid "Edit dashboard"
+#~ msgstr "ویرایش داشبورد"
+
+#~ msgid "Update plugins"
+#~ msgstr "بروزرسانی افزونه ها"
+
+#~ msgid "Delete plugins"
+#~ msgstr "حذف افزونه ها"
+
+#~ msgid "Install plugins"
+#~ msgstr "نصب افزونه ها"
+
+#~ msgid "Update themes"
+#~ msgstr "به روز رسانی قالب ها"
+
+#~ msgid "Install themes"
+#~ msgstr "نصب قالب"
+
+#~ msgid "Update core"
+#~ msgstr "بروزرسانی هسته وردپرس"
+
+#~ msgid "Visit users List"
+#~ msgstr "مشاهده لیست کاربران"
+
+#~ msgid "Remove users"
+#~ msgstr "حذف کاربران"
+
+#~ msgid "Edit theme options"
+#~ msgstr "ویرایش تنظیمات قالب"
+
+#~ msgid "Delete themes"
+#~ msgstr "حذف قالب ها"
+
+#~ msgid "Export"
+#~ msgstr "خروجی گرفتن"
+
+#~ msgid "Account created!"
+#~ msgstr "حساب کاربری ساخته شد!"
+
+#~ msgid "profile updated"
+#~ msgstr "حساب کاربری شما بروزرسانی شد"
+
+#~ msgid "Your restore link : "
+#~ msgstr "لینک بازیابی شما : "
+
+#~ msgid "woocommerce address form templates"
+#~ msgstr "تمپلیت منو ادرس های ووکامرس"
+
+#~ msgid "how to use woocommerce address form"
+#~ msgstr "مسیر فراخوانی تمپلیت آدرس ووکامرس"
+
+#~ msgid "Use UserPanelPro"
+#~ msgstr "استفاده از تمپلیت پنل کاربری پیشرفته"
+
+#~ msgid "Use Woocommerce Default"
+#~ msgstr "استفاده از تمپلیت پیشفرض ووکامرس"
+
+#~ msgid "woocommerce orders menu templates"
+#~ msgstr "تمپلیت منو سفارشات ووکامرس"
+
+#~ msgid "how to use woocommerce orders menu"
+#~ msgstr "مسیر فراخوانی تمپلیت سفارشات ووکامرس"
+
+#~ msgid "woocommerce downloads menu templates"
+#~ msgstr "تمپلیت منو دانلود های ووکامرس"
+
+#~ msgid "how to use woocommerce downloads menu"
+#~ msgstr "مسیر فراخوانی تمپلیت دانلودها ووکامرس"
+
+#~ msgid "Email title"
+#~ msgstr "عنوان ایمیل"
+
+#~ msgid "invisible"
+#~ msgstr "مخفی"
+
+#~ msgid "visible"
+#~ msgstr "قابل رویت"
+
+#~ msgid "Menu buttons hover color"
+#~ msgstr "رنگ هاور منوهای پنل کاربری"
+
+#~ msgid "Menu active button color"
+#~ msgstr "رنگ فعال بودن منو پنل کاربری"
+
+#~ msgid "Menu buttons icon color"
+#~ msgstr "رنگ ایکون منوها"
+
+#~ msgid "Inactive"
+#~ msgstr "غیرفعال"
+
+#~ msgid "Upload Limit (MB)"
+#~ msgstr "محدودیت آپلود(مگابایت)"
+
+#~ msgid "User Role"
+#~ msgstr "نقش کاربری"
+
+#~ msgid "default avatar"
+#~ msgstr "آواتار پیشفرض"
+
+#~ msgid "Link of panel logo"
+#~ msgstr "لینک تصویر لوگوی استفاده شده در سربرگ پنل کاربری"
+
+#~ msgid "Use woocommerce dashboard"
+#~ msgstr "استفاده از داشبورد پیشفرض ووکامرس"
+
+#~ msgid ""
+#~ "If you want to use the WooCommerce dashboard settings, enable this option."
+#~ msgstr ""
+#~ "اگر قصد دارید از منو داشبورد خود ووکامرس استفاده کنید این گزینه را تیک "
+#~ "بزنید."
+
+#~ msgid "Settings for the colored boxes used inside the dashboard menu"
+#~ msgstr "تنظیمات مروبط به باکس های رنگی استفاده شده در داخل منو داشبورد"
+
+#~ msgid "Tickets box"
+#~ msgstr "باکس تیکت ها"
+
+#~ msgid "Send"
+#~ msgstr "ارسال"
+
+#~ msgid "WithOut icon"
+#~ msgstr "بدون آیکون"
+
+#~ msgid "Key"
+#~ msgstr "کلید"
+
+#~ msgid "Bell"
+#~ msgstr "زنگوله"
+
+#~ msgid "Address"
+#~ msgstr "آدرس"
+
+#~ msgid "Account"
+#~ msgstr "حساب کاربری"
+
+#~ msgid "user setting"
+#~ msgstr "تنظیمات کاربر"
+
+#~ msgid "instagram"
+#~ msgstr "اینستاگرام"
+
+#~ msgid "Without menus"
+#~ msgstr "بدون منو"
+
+#~ msgid "Restore section settings"
+#~ msgstr "بازنشانی تنظیمات بخش"
+
+#~ msgid "Save settings"
+#~ msgstr "ذخیره تنظیمات"
+
+#~ msgid "No access permission!"
+#~ msgstr "اجازه دسترسی ندارید!"
+
+#~ msgid "Restoring"
+#~ msgstr "بازگردانی"
+
+#~ msgid "Settings not restored!"
+#~ msgstr "تنظیمات بازنشانی نشدند!"
+
+#~ msgid "Copied"
+#~ msgstr "کپی شد"
+
+#~ msgid "Row"
+#~ msgstr "ردیف"
+
+#~ msgid "Tag"
+#~ msgstr "برچسب"
+
+#~ msgid "The role name should not be blank"
+#~ msgstr "نام نقش نباید خالی باشد"
+
+#~ msgid "Adding ..."
+#~ msgstr "در حال اضافه کردن ..."
+
+#~ msgid "Add role"
+#~ msgstr "افزودن نقش کاربری"
+
+#~ msgid "User tag (English letters)"
+#~ msgstr "برچسب نقش کاربری (حروف انگلیسی)"
+
+#~ msgid "Role name"
+#~ msgstr "نام نقش کاربری"
+
+#~ msgid "Role permissions"
+#~ msgstr "دسترسی های نقش کاربری"
+
+#~ msgid "Field placeholder"
+#~ msgstr "متن نگهدارنده"
+
+#~ msgid "Separate your items with ,"
+#~ msgstr "موارد را با , (کاما) جدا کنید"
+
+#~ msgid "Required"
+#~ msgstr "ضروری"
+
+#~ msgid "Font width and style"
+#~ msgstr "ضخامت و استایل فونت"
+
+#~ msgid "Select in gallery"
+#~ msgstr "انتخاب از گالری"
+
+#~ msgid "Drap and drop your file"
+#~ msgstr "پرونده خود را بکشید و رها کنید"
+
+#~ msgid "Select file"
+#~ msgstr "انتخاب فایل"
+
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+#~ msgid "Remove slider"
+#~ msgstr "حذف اسلایدر"
+
+#~ msgid "Delete slider"
+#~ msgstr "حذف اسلایدر"
+
+#~ msgid "The information entered is invalid"
+#~ msgstr "مشخصات وارد شده نامعتبر است!"
+
+#~ msgid "Save address"
+#~ msgstr "ذخیره آدرس"
+
+#~ msgid "Notes"
+#~ msgstr "یادداشت ها"
+
+#~ msgid "product"
+#~ msgstr "محصول"
+
+#~ msgid "total"
+#~ msgstr "مجموع"
+
+#~ msgid "Basket total :"
+#~ msgstr "مجموع سبد خرید :"
+
+#~ msgid "Discount price :"
+#~ msgstr "میزان تخفیف :"
+
+#~ msgid "Payment method :"
+#~ msgstr "روش های پرداخت :"
+
+#~ msgid "Final price :"
+#~ msgstr "قیمت نهایی :"
+
+#~ msgid "Order again"
+#~ msgstr "سفارش مجدد"
+
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+#~ msgid "Total"
+#~ msgstr "مجموع"
+
+#~ msgid "Operations"
+#~ msgstr "عملیات"
+
+#~ msgid "No order registered!"
+#~ msgstr "هیچ سفارشی ثبت نشده است!"
+
+#, fuzzy
+#~ msgid "%1$s for %2$s item"
+#~ msgid_plural "%1$s for %2$s items"
+#~ msgstr[0] "%1$s، %2$s"
+#~ msgstr[1] "%1$s، %2$s"
+
+#~ msgid "Display name"
+#~ msgstr "نام نمایشی"
+
+#~ msgid ""
+#~ "This will be how your name will be displayed in the account section and "
+#~ "in reviews"
+#~ msgstr "این نام در عنوان حساب کاربری شما و دیدگاه ها نمایش داده خواهد شد"
+
+#~ msgid "Password change"
+#~ msgstr "تغییر رمز عبور"
+
+#~ msgid "Current password (leave blank to leave unchanged)"
+#~ msgstr "گذرواژه فعلی (برای عدم تغییر خالی بگذارید)"
+
+#~ msgid "New password (leave blank to leave unchanged)"
+#~ msgstr "گذرواژه جدید (برای عدم تغییر خالی بگذارید)"
+
+#~ msgid "Confirm new password"
+#~ msgstr "تایید رمز عبور"
+
+#~ msgid "Save changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "account verification"
+#~ msgstr "تایید حساب کاربری"
+
+#~ msgid "WellCome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Rule"
+#~ msgstr "قوانین"
+
+#~ msgid "toman"
+#~ msgstr "تومان"
+
+#~ msgid "Edit profile"
+#~ msgstr "ویرایشگر پروفایل"
+
+#~ msgid "Enter email, phoneNumber or userName"
+#~ msgstr "ایمیل یا نام کاربری یا شماره همراه"
+
+#~ msgid "Add field"
+#~ msgstr "افزودن فیلد"
+
+#~ msgid "Available downloads"
+#~ msgstr "دانلود های موجود"
+
+#~ msgid "Recent orders"
+#~ msgstr "سفارشات اخیر"
+
+#, fuzzy
+#~| msgid "Username invalid!"
+#~ msgid "Code invalid!"
+#~ msgstr "نام کاربری نامعتبر است!"
+
+#, fuzzy
+#~ msgid "Link menu"
+#~ msgstr "فهرست"
+
+#, fuzzy
+#~ msgid "Account details"
+#~ msgstr "جزئیات حساب با موفقیت تغییر کرد."
+
+#, fuzzy
+#~ msgid "Activation of forgetfulness"
+#~ msgstr "فعالسازی افزونه"
+
+#, fuzzy
+#~ msgid "Registered registration page"
+#~ msgstr "کاربران ثبت نام شده"
+
+#, fuzzy
+#~ msgid "Registration Direct"
+#~ msgstr "فعال سازی ثبت نام"
+
+#, fuzzy
+#~ msgid "This text is displayed inside the support button on the header"
+#~ msgstr "این متن در داخل دکمه پشتیبانی در هدر نمایش داده می شود."
+
+#, fuzzy
+#~ msgid "Login and membership form"
+#~ msgstr "ورود یا ثبت نام فرم ایجکس"
+
+#, fuzzy
+#~ msgid "Users Title"
+#~ msgstr "عنوان"
+
+#, fuzzy
+#~ msgid "Users"
+#~ msgstr "کاربران ما مجموعا ارسال کرده اند "
+
+#~ msgid "User pro admin menu Title"
+#~ msgstr "منو برای پنل کاربری پیشرفته"
+
+#, fuzzy
+#~ msgid "Expert users"
+#~ msgstr "کاربران ثبت نام شده"
+
+#, fuzzy
+#~ msgid "Settings Title"
+#~ msgstr "عنوان"

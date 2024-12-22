@@ -1,0 +1,950 @@
+html {
+    margin-top: 0 !important;
+    overflow-y: auto !important;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, .table, .btn {
+    margin: unset;
+}
+
+.wupp .clientPanel {
+    min-height: 85vh;
+}
+
+.login-pnl {
+    margin: auto !important;
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    top: 100px !important;
+    bottom: 100px !important;
+    min-height: 350px;
+    height: 90% !important;
+}
+
+.google-login-btn {
+    color: #fff !important;
+    background-color: #D44638 !important;
+}
+
+#wupp_pnl_sign_in, #wupp_pnl_forgot, #wupp_pnl_sign_up {
+    overflow-y: auto !important;
+    height: 100% !important;
+}
+
+#wupp_pnl_sign_up::-webkit-scrollbar, #wupp_pnl_forgot::-webkit-scrollbar, #wupp_pnl_sign_up::-webkit-scrollbar {
+    width: 5px;
+}
+
+#wupp_pnl_sign_up::-webkit-scrollbar-track, #wupp_pnl_forgot::-webkit-scrollbar-track, #wupp_pnl_sign_up::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+#wupp_pnl_sign_up::-webkit-scrollbar-thumb, #wupp_pnl_forgot::-webkit-scrollbar-thumb, #wupp_pnl_sign_up::-webkit-scrollbar-thumb {
+    background: #6c757d;
+}
+
+#wupp_pnl_sign_up::-webkit-scrollbar-thumb:hover, #wupp_pnl_forgot::-webkit-scrollbar-thumb:hover, #wupp_pnl_sign_up::-webkit-scrollbar-thumb:hover {
+    background: #4d5357;
+}
+
+.wupp ul {
+    list-style: none;
+}
+
+.wupp a {
+    color: #333;
+}
+
+.wupp a:hover {
+    text-decoration: none;
+    color: #FF2125;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wupp-sidebar {
+    min-height: 67vh;
+}
+
+.wupp .wupp-footer .wupp-footersocial ul {
+    display: flex;
+    font-size: 20px;
+}
+
+.wupp-footer .wupp-footersocial ul a {
+    padding-right: 15px;
+    color: #999898;
+}
+
+.wupp-footer .wupp-footersocial ul a .fa-telegram:hover {
+    color: #0084ff;
+}
+
+.wupp-footer .wupp-footersocial ul a .fa-instagram:hover {
+    color: #e4405f;
+}
+
+.wupp-footer .wupp-footersocial ul a .fa-facebook:hover {
+    color: #3b5999;
+}
+
+.wupp-footer .wupp-footersocial ul a .fa-whatsapp:hover {
+    color: #25D366;
+}
+
+.wupp-footer .wupp-footersocial ul a .fa-twitter:hover {
+    color: #55acee;
+}
+
+.wupp-footer {
+    box-shadow: 24px .7rem 1.5rem rgba(0, 0, 0, .15);
+}
+
+.bg-account-card {
+    height: 150px !important;
+    padding: 15px 15px 0 15px;
+}
+
+.account-card-box {
+    height: 100%;
+    box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15);
+    border-radius: 10px;
+}
+
+.shadow-sidebar {
+    box-shadow: -2px 7px 3px 3px rgba(136, 152, 170, 0.07);
+}
+
+.wupp-off-count {
+    box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 4px;
+    border: none !important;
+}
+
+.nav a {
+    color: black !important;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.nav .active svg {
+    color: #ffffff !important;
+}
+
+#wupp_user_img_avatar:hover .bg-camera-in-load {
+    opacity: 1;
+}
+
+/*sidbar menus hover animate*/
+
+.sidbarMenus .nav-link:hover {
+    color: #fff !important;
+}
+
+.sidbarMenus .nav-link:hover span {
+    transform: translateY(0) scale(2);
+}
+
+.sidbarMenus .nav-link span:nth-child(1) {
+    --n: 1;
+}
+
+.sidbarMenus .nav-link span:nth-child(2) {
+    --n: 2;
+}
+
+.sidbarMenus .nav-link span:nth-child(3) {
+    --n: 3;
+}
+
+.sidbarMenus .nav-link span:nth-child(4) {
+    --n: 4;
+}
+
+.wupp-header .navbar {
+    height: 70px;
+}
+
+.wupp-account-drop {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    font-size: 14px;
+}
+
+.wupp-header .topbar {
+    box-shadow: 0 2.4px 28px 0 rgba(58, 59, 69, .15);
+}
+
+.wupp-header .topbar .dropdown-list .dropdown-header {
+    background-color: #4e73df;
+    border: 1px solid #4e73df;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    color: #fff;
+}
+
+.wupp-header .topbar .dropdown-list .dropdown-item {
+    /*white-space: normal;*/
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-left: 1px solid #e3e6f0;
+    border-right: 1px solid #e3e6f0;
+    border-bottom: 1px solid #e3e6f0;
+    line-height: 1.3rem;
+}
+
+.wupp-header .topbar .nav-item .nav-link .badge-counter {
+    position: absolute;
+    transform: scale(.7);
+    transform-origin: top right;
+    right: .25rem;
+    margin-top: -.25rem;
+}
+
+.wupp-header .dropdown-toggle::after {
+    display: none;
+}
+
+.wupp-header .topbar .topbar-divider {
+    width: 0;
+    border-right: 1px solid #e3e6f0;
+    height: calc(4.375rem - 2rem);
+    margin: auto 1rem;
+}
+
+.wupp-header #supportDropdown button {
+    color: #ffffff;
+    border-radius: 50px;
+}
+
+.wupp-header .supportDropdown div {
+    width: max-content;
+    left: auto;
+    right: 0;
+    border: none;
+}
+
+.wupp-header .topbar .navbar-nav .nav-item a {
+    color: #d1d3e2 !important;
+    font-size: 20px;
+}
+
+.wupp-header .topbar .nav-item .nav-link {
+    height: 4.375rem;
+    display: flex;
+    align-items: center;
+    padding: 0 .75rem;
+}
+
+.wupp-header .hedaer-menu li {
+    padding-left: 18px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.wupp .tab-content .container > .card {
+    box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15);
+}
+
+.wupp .wupp-footer {
+    height: 55px;
+    right: 0;
+}
+
+.woocommerce-error, .woocommerce-info, .woocommerce-message {
+    margin-bottom: 2rem;
+    padding: 1.5rem 3rem;
+}
+
+.woocommerce-error .btn, .woocommerce-info .btn, .woocommerce-message .btn {
+    color: #fff;
+}
+
+.danger-border {
+    border: 2px solid #de3d17 !important;
+}
+
+.overlay-left-fo-lef {
+    right: 50% !important;
+    left: 0 !important;
+    animation-name: move_anim !important;
+    animation-duration: 1s !important;
+}
+
+.overlay-left-fo-right {
+    right: 0 !important;
+    left: 50% !important;
+    animation-name: move_anim_2 !important;
+    animation-duration: 1s !important;
+}
+
+.overlay-left-fo p {
+    margin-top: 200px !important;
+    line-height: 30px !important;
+}
+
+.overlay-left-fo button {
+    background-color: #00000000 !important;
+    color: white;
+    border-radius: 30px !important;
+}
+
+h1 {
+    font-size: 1.3em !important;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+.sidbarMenus .nav-link span {
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    background-color: var(--c);
+    transform: translateY(150%);
+    border-radius: 50%;
+    right: calc((var(--n) - 1) * 25%);
+    transition: 0.5s;
+    transition-delay: calc((var(--n) - 1) * 0.1s);
+    z-index: -1;
+}
+
+.sidbarMenus .nav-link {
+    border-radius: 0.5em;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: 0.5s;
+    padding: 10px 8px;
+    margin-top: 5px;
+}
+
+.card-body li, .card-body li:hover {
+    cursor: pointer;
+}
+
+input[type=number] {
+    -moz-appearance: textfield !important;
+}
+
+@keyframes move_anim {
+    from {
+        left: 50%;
+        right: 0;
+    }
+    to {
+        right: 50%;
+        left: 0;
+    }
+}
+
+@keyframes move_anim_2 {
+    from {
+        right: 50%;
+        left: 0;
+    }
+    to {
+        left: 50%;
+        right: 0;
+    }
+}
+
+@keyframes fade_out_anim_right {
+    from {
+        left: 0;
+        right: 50%;
+        opacity: 1;
+    }
+    to {
+        right: 0;
+        left: 50%;
+        opacity: 0;
+    }
+}
+
+@keyframes fade_out_anim_left {
+    from {
+        left: 50%;
+        right: 0;
+        opacity: 1;
+    }
+    to {
+        right: 50%;
+        left: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes fade_in_anim_right {
+    from {
+        left: 0;
+        right: 50%;
+        opacity: 0;
+    }
+    to {
+        right: 0;
+        left: 50%;
+        opacity: 1;
+    }
+}
+
+@keyframes fade_in_anim_left {
+    from {
+        left: 50%;
+        right: 0;
+        opacity: 0;
+    }
+    to {
+        right: 50%;
+        left: 0;
+        opacity: 1;
+    }
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(359deg);
+    }
+}
+
+.wupp-userinfo-buttons a :hover {
+    animation: rotation 1s 1 linear;
+    color: #25D366;
+}
+
+.wupp_gr_ic {
+    top: 28px;
+    right: 20px;
+    font-size: 35px;
+    opacity: .3;
+}
+
+.wupp_gr_one {
+    background-image: linear-gradient(to left, #3949ab, #5c6bc0);
+}
+
+.wupp_gr_two {
+    background-image: linear-gradient(to left, #43a047, #66bb6a);
+}
+
+.wupp_gr_three {
+    background-image: linear-gradient(to left, #ffb300, #ffca28);
+}
+
+.wupp_gr_four {
+    background-image: linear-gradient(to left, #e53935, #ef5350);
+}
+
+.w-95 {
+    width: 95% !important;
+}
+
+.woocommerce-input-wrapper {
+    width: 100%;
+}
+
+.required {
+    color: red;
+    font-weight: 700;
+    border: 0 !important;
+    text-decoration: none !important;
+}
+
+
+.woocommerce-message {
+    border-top: 3px solid #8BC34A;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: white;
+}
+
+.table td {
+    padding: 14px !important;
+}
+
+.wupp-backbtn {
+    background-color: #ffffff !important;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 1px 1px 7px rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 1px 1px 7px rgba(0, 0, 0, .2);
+    -ms-box-shadow: 1px 1px 7px rgba(0, 0, 0, .2);
+    -o-box-shadow: 1px 1px 7px rgba(0, 0, 0, .2);
+}
+
+.wupp-backbtn > svg {
+    color: #dc3545 !important;
+}
+
+.bg-account-tool {
+    width: 30px !important;
+    height: 30px;
+    z-index: 3;
+    position: absolute;
+    background: white;
+    padding: 7px;
+    border-radius: 50px;
+    left: 15px;
+    top: 134px;
+}
+
+.wupp-account-drop {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    font-size: 14px;
+}
+
+.bg-shadow {
+    height: 85px;
+    width: 85px;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    text-align: center;
+    background-color: #00000066;
+    border-radius: 50px;
+}
+
+.bg-shadow-wait {
+    height: 85px;
+    width: 85px;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    text-align: center;
+    background-color: #00000066;
+    border-radius: 50px;
+}
+
+.bg-shadow-i {
+    color: white;
+    margin-top: 30px !important;
+    font-size: 1.5rem !important;
+}
+
+.bg-camera-load {
+    opacity: 1 !important;
+    animation-name: load_camera;
+    animation-duration: 1s;
+}
+
+.bg-camera-in-load {
+    opacity: 0;
+    animation-name: in_load_camera;
+    animation-duration: 1s;
+}
+
+div[id^=collapse_new_group] {
+    background: #f2f2f2;
+}
+
+/*pagination part*/
+
+.pagination-wrappe {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.pagination-content {
+    display: inline-flex;
+    height: 40px;
+    margin-top: 70px;
+    padding: 0 25px;
+    border-radius: 35px;
+    background-color: #eee;
+}
+
+.wupp-menu-loader {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+/*****************************************************/
+
+/******** WOO ACCOUNT PAGES ********/
+
+/*****************************************************/
+
+.form-row-first {
+    float: left;
+    width: 50%;
+    padding-right: 10px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+    vertical-align: top;
+}
+
+.form-row label {
+    display: block;
+}
+
+form label {
+    font-weight: 400;
+}
+
+.form-row input[type="email"], .form-row input[type="number"], .form-row input[type="password"], .form-row input[type="search"], .form-row input[type="tel"], .form-row input[type="text"], .form-row input[type="url"], .form-row input[type="color"], .form-row input[type="date"], .form-row input[type="datetime"], .form-row select, .form-row textarea {
+    color: #777;
+    background-color: #fff;
+    width: 100%;
+    border-color: rgba(0, 0, 0, .09);
+    outline: none;
+    box-shadow: none;
+    padding: 8px 12px;
+    font-size: .85rem;
+    vertical-align: middle;
+    height: auto;
+}
+
+.woocommerce-Button, .woocommerce-address-fields button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #8BC34A !important;
+    border: none;
+}
+
+@media only screen and (max-width: 1199px) {
+    .pagination-content {
+        height: 30px;
+        margin-top: 50px;
+        padding: 0 10px;
+        border-radius: 25px;
+    }
+}
+
+.page-numbers {
+    display: block;
+    padding: 0 25px;
+    float: left;
+    transition: 400ms ease;
+    color: #595959;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.page-numbers:hover, .page-numbers.current {
+    background-color: #fcad14;
+    color: #fff;
+}
+
+.page-numbers.prev:hover, .page-numbers.next:hover {
+    background-color: transparent;
+    color: #fcad14;
+}
+
+@media only screen and (max-width: 1199px) {
+    .page-numbers {
+        padding: 0 15px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+}
+
+@media only screen and (min-width: 120px) and (max-width: 1024px) {
+    .page-numbers {
+        padding: 0 14px;
+        display: none;
+    }
+
+    .page-numbers:nth-of-type(2) {
+        position: relative;
+        padding-right: 50px;
+    }
+
+    .page-numbers:nth-of-type(2)::after {
+        content: '...';
+        position: absolute;
+        font-size: 25px;
+        top: 0;
+        left: 45px;
+    }
+
+    .page-numbers:nth-child(-n+3), .page-numbers:nth-last-child(-n+3) {
+        display: block;
+    }
+
+    .page-numbers:nth-last-child(-n+4) {
+        padding-right: 14px;
+    }
+
+    .page-numbers:nth-last-child(-n+4)::after {
+        content: none;
+    }
+
+    .pagination-content .prev, .pagination-content .next {
+        display: none;
+    }
+}
+
+@keyframes load_camera {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes in_load_camera {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #FFEB3B;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 22px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.wpas-btn-default {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+@media (min-width: 768px) {
+    .fade_in_to_right {
+        right: 0 !important;
+        left: 50% !important;
+        opacity: 1 !important;
+        animation-name: fade_in_anim_right;
+        animation-duration: 1s !important;
+        display: unset;
+    }
+
+    .fade_in_to_left {
+        right: 50% !important;
+        left: 0 !important;
+        opacity: 1 !important;
+        animation-name: fade_in_anim_left;
+        animation-duration: 1s !important;
+        display: unset;
+    }
+
+    .fade_out_to_right {
+        right: 0 !important;
+        left: 50% !important;
+        opacity: 0 !important;
+        animation-name: fade_out_anim_right;
+        animation-duration: 1s !important;
+        display: none;
+    }
+
+    .fade_out_to_left {
+        right: 50% !important;
+        left: 0 !important;
+        opacity: 0 !important;
+        animation-name: fade_out_anim_left;
+        animation-duration: 1s !important;
+        display: none;
+    }
+}
+
+.fade_in_to_right {
+    right: 0;
+    left: 0;
+    opacity: 1;
+    animation-name: fade_in_anim_right;
+    animation-duration: 0s;
+    display: unset;
+}
+
+.fade_in_to_left {
+    right: 0;
+    left: 0;
+    opacity: 1;
+    animation-name: fade_in_anim_left;
+    animation-duration: 0s;
+    display: unset;
+}
+
+.fade_out_to_right {
+    right: 0;
+    left: 0;
+    opacity: 0;
+    animation-name: fade_out_anim_right;
+    animation-duration: 0s;
+    display: none;
+}
+
+.fade_out_to_left {
+    right: 0;
+    left: 0;
+    opacity: 0;
+    animation-name: fade_out_anim_left;
+    animation-duration: 0s;
+    display: none;
+}
+
+@media screen and (max-width: 991.98px) {
+    .wupp .wupp-sidebar {
+        height: 100%;
+        width: 80% !important;
+        background: none repeat scroll 0 0 #fff;
+        box-shadow: -2px 7px 3px 3px rgba(136, 152, 170, 0.07);
+        overflow-y: auto;
+        list-style: none;
+        margin: 0;
+        border: none;
+        align-items: unset;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        position: fixed;
+        float: right;
+        max-width: 100%;
+        top: 0;
+        right: 0;
+        z-index: 3;
+        visibility: hidden;
+        /* opacity: 0;  */
+        transform: translate3d(100%, 0, 0);
+        transition: transform .5s cubic-bezier(.79, .14, .15, .86), visibility 0.3s linear;
+    }
+
+    .is-active .wupp .wupp-sidebar {
+        z-index: 4;
+        height: 100vh;
+        transform: translate3d(0, 0, 0);
+        right: 0;
+        visibility: visible;
+        transition: transform .5s cubic-bezier(.79, .14, .15, .86);
+        opacity: 1;
+    }
+
+    .is-active .header-menu-sidebar-overlay {
+        display: block;
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .header-menu-sidebar-overlay {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, .5);
+        position: fixed;
+        transform: translate3d(0, 0, 0);
+        z-index: 2;
+        transition: all .5s linear;
+        display: none;
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+/* login form responisve */
+
+@media screen and (max-width: 1024px) {
+    .login-pnl .pr-5 {
+        padding-right: 1rem !important;
+    }
+
+    .login-pnl .pl-5 {
+        padding-left: 1rem !important;
+    }
+}
+
+/* ----- ---  thme support part --- -- -- -*/
+
+/* wood mart */
+
+.slide-from-right, .woodmart-search-form, .cart-widget-side, .login-form-side, .pswp, .scrollToTop, .woocommerce-store-notice, .woodmart-my-account-links {
+    display: none !important;
+}
+
+/* sigma */
+
+.sigma-popup {
+    display: none;
+}
+
+/* flatsome */
+
+.mfp-hide {
+    display: none;
+}
+
+/*mart furey*/
+
+.mf-quick-view-modal, .primary-mobile-nav, .primary-user-nav {
+    display: none;
+}
+
+/*woodmart*/
+
+.mobile-nav, .woodmart-search-full-screen {
+    display: none;
+}
+
+/*Edd css*/
+
+#edd_user_history td, #edd_user_history th {
+    text-align: right;
+}
+
+/* Elessi */
+
+.vendor_hidden {
+    display: none !important;
+}
+
+/*others*/
+
+.dashboard-links {
+    display: none;
+}
+
+.sc_video_in_loop_player_holder, .share_box_holder {
+    display: none;
+}
+
+.naturalife-panel-wrapper {
+    display: none;
+}
+
+.dokan-announcement-widget {
+    display: none;
+}
+
+.gform_body, .gform_heading {
+    text-align: right;
+}
+
+.rtl .woocommerce-Price-amount .woocommerce-Price-currencySymbol {
+    font-size: 1.2rem;
+}
